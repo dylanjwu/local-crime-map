@@ -1,0 +1,866 @@
+[
+  [
+    "2023010020",
+    "02/27/2023 12:55 AM",
+    "02/27/2023 12:59 AM",
+    "Motor Vehicle Stop",
+    "Portland St/Hanover St",
+    "Huff, Curran"
+  ],
+  [
+    "2023010022",
+    "02/27/2023 01:11 AM",
+    "02/27/2023 02:29 AM",
+    "Domestic Dispute - Assault",
+    "67 Spruce St",
+    "Theriault, Zachary"
+  ],
+  [
+    "2023010026",
+    "02/27/2023 02:36 AM",
+    "02/27/2023 02:58 AM",
+    "Burglary Alarm",
+    "35 Riverside St",
+    "Fitzgerald, Terrence"
+  ],
+  [
+    "2023010027",
+    "02/27/2023 03:07 AM",
+    "02/27/2023 03:50 AM",
+    "Harassment",
+    "1125 Brighton Ave,Apt 401",
+    "Mohamed, Mohamed"
+  ],
+  [
+    "2023010028",
+    "02/27/2023 03:11 AM",
+    "02/27/2023 03:29 AM",
+    "Neighbor Dispute",
+    "6 Walker St,Apt 2",
+    "Jashinski, Alex"
+  ],
+  [
+    "2023010029",
+    "02/27/2023 03:52 AM",
+    "02/27/2023 04:00 AM",
+    "Burglary Alarm",
+    "219 Anderson St",
+    "Theriault, Zachary"
+  ],
+  [
+    "2023010031",
+    "02/27/2023 04:18 AM",
+    "02/27/2023 04:46 AM",
+    "Disturbance",
+    "1125 Brighton Ave,Apt 401",
+    "Fitzgerald, Terrence"
+  ],
+  [
+    "2023010030",
+    "02/27/2023 04:19 AM",
+    "02/27/2023 07:30 AM",
+    "Hit and Run Crash",
+    "741 Stevens Ave",
+    "Castonguay, Andrew"
+  ],
+  [
+    "2023010032",
+    "02/27/2023 04:33 AM",
+    "02/27/2023 05:06 AM",
+    "Suspicious Activity",
+    "320 Allen Ave",
+    "Fitzgerald, Terrence"
+  ],
+  [
+    "2023010033",
+    "02/27/2023 06:36 AM",
+    "02/27/2023 07:07 AM",
+    "Refusing To Leave",
+    "Oxford St/Portland St",
+    "Rogers, Garrick"
+  ],
+  [
+    "2023010037",
+    "02/27/2023 07:18 AM",
+    "02/27/2023 07:29 AM",
+    "Found Property",
+    "1 Union St",
+    "Rogers, Garrick"
+  ],
+  [
+    "2023010038",
+    "02/27/2023 07:19 AM",
+    "02/27/2023 07:48 AM",
+    "Suspicious Activity",
+    "1080 Forest Ave",
+    "Snajder, Deni"
+  ],
+  [
+    "2023010039",
+    "02/27/2023 07:54 AM",
+    "02/27/2023 08:47 AM",
+    "Check Well Being",
+    "274 Saint John St",
+    "McLean, John"
+  ],
+  [
+    "2023010041",
+    "02/27/2023 08:00 AM",
+    "02/27/2023 08:06 AM",
+    "Motor Vehicle Stop",
+    "Eastern Promenade/Washington Ave",
+    "Rogers, Garrick"
+  ],
+  [
+    "2023010043",
+    "02/27/2023 08:11 AM",
+    "02/27/2023 08:15 AM",
+    "Motor Vehicle Stop",
+    "104 North St",
+    "Rogers, Garrick"
+  ],
+  [
+    "2023010044",
+    "02/27/2023 08:12 AM",
+    "02/27/2023 08:19 AM",
+    "Motor Vehicle Stop",
+    "Deering Ave/Interstate 295 Overpass",
+    "Lowe, Joseph"
+  ],
+  [
+    "2023010045",
+    "02/27/2023 08:13 AM",
+    "02/27/2023 08:34 AM",
+    "Assist Other Agency",
+    "109 Middle St",
+    "Cole, Lydia"
+  ],
+  [
+    "2023010047",
+    "02/27/2023 08:17 AM",
+    "02/27/2023 08:25 AM",
+    "Assist Citizen",
+    "274 Saint John St",
+    "McLean, John"
+  ],
+  [
+    "2023010048",
+    "02/27/2023 08:23 AM",
+    "02/27/2023 08:27 AM",
+    "Motor Vehicle Stop",
+    "92 Deering Ave",
+    "Lowe, Joseph"
+  ],
+  [
+    "2023010049",
+    "02/27/2023 08:31 AM",
+    "02/27/2023 08:35 AM",
+    "Motor Vehicle Stop",
+    "Deering Ave/Chamberlain Ave",
+    "Lowe, Joseph"
+  ],
+  [
+    "2023010050",
+    "02/27/2023 08:35 AM",
+    "02/27/2023 10:32 AM",
+    "Domestic Dispute - Verbal",
+    "192 Grant St",
+    "Sprague, Christopher"
+  ],
+  [
+    "2023010051",
+    "02/27/2023 08:41 AM",
+    "02/27/2023 08:56 AM",
+    "911 Hang Up Calls",
+    "211 Cumberland Ave",
+    "Rogers, Garrick"
+  ],
+  [
+    "2023010052",
+    "02/27/2023 08:48 AM",
+    "02/27/2023 09:23 AM",
+    "Theft",
+    "10 White Birch Ln,Apt 18",
+    "Fitzgerald, Terrence"
+  ],
+  [
+    "2023010055",
+    "02/27/2023 09:06 AM",
+    "02/27/2023 12:29 PM",
+    "Burglary",
+    "1 Canal Plz,Ste 800",
+    "Cole, Lydia"
+  ],
+  [
+    "2023010056",
+    "02/27/2023 09:11 AM",
+    "02/27/2023 09:16 AM",
+    "Motor Vehicle Stop",
+    "64 Presumpscot St",
+    "Rollins, Brian"
+  ],
+  [
+    "2023010057",
+    "02/27/2023 09:19 AM",
+    "02/27/2023 10:20 AM",
+    "PD Crash",
+    "9 Center St",
+    "Rogers, Garrick"
+  ],
+  [
+    "2023010058",
+    "02/27/2023 09:34 AM",
+    "02/27/2023 09:45 AM",
+    "PART Outreach",
+    "E Oxford St/Boyd St",
+    "Cummings, Amethyst"
+  ],
+  [
+    "2023010061",
+    "02/27/2023 09:48 AM",
+    "02/27/2023 12:28 PM",
+    "Unattended Death",
+    "72 Bishop St,Unit 304",
+    "Vaught, Kyle"
+  ],
+  [
+    "2023010062",
+    "02/27/2023 09:56 AM",
+    "02/27/2023 10:55 AM",
+    "Domestic Dispute - Assault",
+    "332 Saint John St",
+    "Sprague, Christopher"
+  ],
+  [
+    "2023010063",
+    "02/27/2023 10:04 AM",
+    "02/27/2023 12:02 PM",
+    "Assist Citizen",
+    "109 Middle St",
+    "Rogers, Garrick"
+  ],
+  [
+    "2023010067",
+    "02/27/2023 10:32 AM",
+    "02/27/2023 12:54 PM",
+    "PI Crash",
+    "Abbott St/Maplewood St",
+    "Fitzgerald, Terrence"
+  ],
+  [
+    "2023010069",
+    "02/27/2023 10:49 AM",
+    "02/27/2023 11:28 AM",
+    "Check Well Being",
+    "1150 Brighton Ave",
+    "Snajder, Deni"
+  ],
+  [
+    "2023010070",
+    "02/27/2023 11:04 AM",
+    "02/27/2023 12:12 PM",
+    "PI Crash",
+    "Forest Ave/Baxter Blvd",
+    "Rollins, Brian"
+  ],
+  [
+    "2023010071",
+    "02/27/2023 11:07 AM",
+    "02/27/2023 12:48 PM",
+    "Criminal Mischief",
+    "60 Bradley St",
+    "Bennis, Michael"
+  ],
+  [
+    "2023010072",
+    "02/27/2023 11:07 AM",
+    "02/27/2023 11:20 AM",
+    "Refusing To Leave",
+    "594 Congress St",
+    "Sprague, Christopher"
+  ],
+  [
+    "2023010077",
+    "02/27/2023 11:24 AM",
+    "02/27/2023 11:26 AM",
+    "Disturbance",
+    "1 City Center",
+    "Sprague, Christopher"
+  ],
+  [
+    "2023010078",
+    "02/27/2023 11:33 AM",
+    "02/27/2023 11:50 AM",
+    "911 Hang Up Calls",
+    "33 Melbourne St",
+    "Sprague, Christopher"
+  ],
+  [
+    "2023010080",
+    "02/27/2023 11:47 AM",
+    "02/27/2023 11:57 AM",
+    "Drug Possession",
+    "166 Brackett St",
+    "McLean, John"
+  ],
+  [
+    "2023010082",
+    "02/27/2023 11:58 AM",
+    "02/27/2023 01:18 PM",
+    "PD Crash",
+    "144 Belfort St",
+    "Poisson, Alissa"
+  ],
+  [
+    "2023010083",
+    "02/27/2023 12:07 PM",
+    "02/27/2023 12:19 PM",
+    "Serving Paperwork",
+    "259 Oxford St,Apt A4",
+    "Sprague, Christopher"
+  ],
+  [
+    "2023010086",
+    "02/27/2023 12:17 PM",
+    "02/27/2023 01:01 PM",
+    "PD Crash",
+    "59 Roberts St",
+    "Bennis, Michael"
+  ],
+  [
+    "2023010085",
+    "02/27/2023 12:18 PM",
+    "02/27/2023 01:33 PM",
+    "PD Crash",
+    "446 Forest Ave",
+    "Rollins, Brian"
+  ],
+  [
+    "2023010087",
+    "02/27/2023 12:21 PM",
+    "02/27/2023 01:11 PM",
+    "Theft",
+    "109 Middle St",
+    "Rogers, Garrick"
+  ],
+  [
+    "2023010088",
+    "02/27/2023 12:22 PM",
+    "02/27/2023 12:53 PM",
+    "Theft",
+    "109 Middle St",
+    "Cole, Lydia"
+  ],
+  [
+    "2023010090",
+    "02/27/2023 12:35 PM",
+    "02/27/2023 12:47 PM",
+    "911 Hang Up Calls",
+    "27 Lafayette St",
+    "Sprague, Christopher"
+  ],
+  [
+    "2023010091",
+    "02/27/2023 12:37 PM",
+    "02/27/2023 01:50 PM",
+    "Hit and Run Crash",
+    "364 Cumberland Ave",
+    "Sprague, Christopher"
+  ],
+  [
+    "2023010092",
+    "02/27/2023 12:52 PM",
+    "02/27/2023 12:58 PM",
+    "911 Hang Up Calls",
+    "92 Maine Ave",
+    "Lukasiewicz, Mary"
+  ],
+  [
+    "2023010093",
+    "02/27/2023 01:04 PM",
+    "02/27/2023 01:14 PM",
+    "Assist Citizen",
+    "109 Middle St",
+    "Cole, Lydia"
+  ],
+  [
+    "2023010095",
+    "02/27/2023 01:19 PM",
+    "02/27/2023 01:40 PM",
+    "911 Hang Up Calls",
+    "568 Congress St",
+    "McLean, John"
+  ],
+  [
+    "2023010096",
+    "02/27/2023 01:29 PM",
+    "02/27/2023 01:32 PM",
+    "Motor Vehicle Stop",
+    "State St/Forest Ave",
+    "Lowe, Joseph"
+  ],
+  [
+    "2023010098",
+    "02/27/2023 01:34 PM",
+    "02/27/2023 02:01 PM",
+    "PD Crash",
+    "125 Allen Ave",
+    "Lukasiewicz, Mary"
+  ],
+  [
+    "2023010100",
+    "02/27/2023 01:54 PM",
+    "02/27/2023 02:04 PM",
+    "Motor Vehicle Stop",
+    "Cumberland Ave/Preble St",
+    "Napijalo, Andjelko"
+  ],
+  [
+    "2023010101",
+    "02/27/2023 01:54 PM",
+    "02/27/2023 02:11 PM",
+    "PD Crash",
+    "241 Oxford St",
+    "Sprague, Christopher"
+  ],
+  [
+    "2023010104",
+    "02/27/2023 01:59 PM",
+    "02/27/2023 02:17 PM",
+    "Person(s) Bothering",
+    "5 Monument Sq",
+    "Napijalo, Andjelko"
+  ],
+  [
+    "2023010105",
+    "02/27/2023 02:04 PM",
+    "02/27/2023 03:46 PM",
+    "Warrant Check",
+    "56 Milliken St",
+    "Vaught, Kyle"
+  ],
+  [
+    "2023010107",
+    "02/27/2023 02:32 PM",
+    "02/27/2023 02:41 PM",
+    "911 Hang Up Calls",
+    "636 Congress St",
+    "McLean, John"
+  ],
+  [
+    "2023010108",
+    "02/27/2023 03:25 PM",
+    "02/27/2023 03:36 PM",
+    "Suspicious Activity",
+    "594 Congress St",
+    "Cole, Lydia"
+  ],
+  [
+    "2023010110",
+    "02/27/2023 03:39 PM",
+    "02/27/2023 04:45 PM",
+    "Refusing To Leave",
+    "75 Northport Dr",
+    "Moore, David"
+  ],
+  [
+    "2023010113",
+    "02/27/2023 03:58 PM",
+    "02/27/2023 06:48 PM",
+    "SRT Callout",
+    "109 Middle St",
+    "Goodman, Nicholas"
+  ],
+  [
+    "2023010116",
+    "02/27/2023 04:22 PM",
+    "02/27/2023 04:34 PM",
+    "Assist Citizen",
+    "109 Middle St",
+    "Jackson, Jordin"
+  ],
+  [
+    "2023010118",
+    "02/27/2023 04:34 PM",
+    "02/27/2023 04:40 PM",
+    "Assist Citizen",
+    "109 Middle St",
+    "Jackson, Jordin"
+  ],
+  [
+    "2023010119",
+    "02/27/2023 04:35 PM",
+    "02/27/2023 04:46 PM",
+    "Burglary Alarm",
+    "501 Danforth St",
+    "Jackson, Jordin"
+  ],
+  [
+    "2023010120",
+    "02/27/2023 04:52 PM",
+    "02/27/2023 05:34 PM",
+    "Person(s) Bothering",
+    "175 Lancaster St",
+    "Webster, Jacob"
+  ],
+  [
+    "2023010121",
+    "02/27/2023 04:54 PM",
+    "02/27/2023 05:43 PM",
+    "Pedestrian Check",
+    "393 Commercial St",
+    "Jackson, Jordin"
+  ],
+  [
+    "2023010122",
+    "02/27/2023 05:00 PM",
+    "02/27/2023 05:16 PM",
+    "911 Hang Up Calls",
+    "15 Cumberland Ave",
+    "Huff, Curran"
+  ],
+  [
+    "2023010123",
+    "02/27/2023 05:06 PM",
+    "02/27/2023 05:16 PM",
+    "911 Hang Up Calls",
+    "73 Merrill St",
+    "Huff, Curran"
+  ],
+  [
+    "2023010124",
+    "02/27/2023 05:19 PM",
+    "02/27/2023 05:32 PM",
+    "Assist Citizen",
+    "109 Middle St",
+    "Huff, Curran"
+  ],
+  [
+    "2023010126",
+    "02/27/2023 05:47 PM",
+    "02/27/2023 05:49 PM",
+    "Motor Vehicle Stop",
+    "393 Commercial St",
+    "Jashinski, Alex"
+  ],
+  [
+    "2023010127",
+    "02/27/2023 05:47 PM",
+    "02/27/2023 06:32 PM",
+    "Threat/Terrorizing",
+    "123 Sherman St,Apt 5",
+    "Buckley, William"
+  ],
+  [
+    "2023010128",
+    "02/27/2023 05:53 PM",
+    "02/27/2023 06:10 PM",
+    "Vehicle Complaint",
+    "Washington Ave/Eastern Promenade",
+    "Huff, Curran"
+  ],
+  [
+    "2023010129",
+    "02/27/2023 05:56 PM",
+    "02/27/2023 06:07 PM",
+    "Burglary Alarm",
+    "27 Northport Dr",
+    "MacLean, Morgan"
+  ],
+  [
+    "2023010131",
+    "02/27/2023 06:02 PM",
+    "02/27/2023 06:09 PM",
+    "Vehicle Complaint",
+    "904 Washington Ave",
+    "MacLean, Morgan"
+  ],
+  [
+    "2023010133",
+    "02/27/2023 06:15 PM",
+    "02/27/2023 06:27 PM",
+    "911 Hang Up Calls",
+    "284 Danforth St",
+    "Jashinski, Alex"
+  ],
+  [
+    "2023010132",
+    "02/27/2023 06:16 PM",
+    "02/27/2023 06:19 PM",
+    "Motor Vehicle Stop",
+    "145 Marginal Way",
+    "Webster, Jacob"
+  ],
+  [
+    "2023010134",
+    "02/27/2023 06:18 PM",
+    "02/27/2023 06:37 PM",
+    "Assist Citizen",
+    "109 Middle St",
+    "Jackson, Jordin"
+  ],
+  [
+    "2023010135",
+    "02/27/2023 06:20 PM",
+    "02/27/2023 06:34 PM",
+    "Person(s) Bothering",
+    "54 Illsley St",
+    "MacLean, Morgan"
+  ],
+  [
+    "2023010136",
+    "02/27/2023 06:34 PM",
+    "02/27/2023 06:48 PM",
+    "Suspicious Activity",
+    "1 Beanpot Cir",
+    "MacLean, Morgan"
+  ],
+  [
+    "2023010139",
+    "02/27/2023 06:47 PM",
+    "02/27/2023 06:52 PM",
+    "Unknown Problem Medical",
+    "465 Congress St",
+    "Huff, Curran"
+  ],
+  [
+    "2023010141",
+    "02/27/2023 06:51 PM",
+    "02/27/2023 07:02 PM",
+    "Assist Citizen",
+    "Park Ave/Mellen St",
+    "Buckley, William"
+  ],
+  [
+    "2023010142",
+    "02/27/2023 06:54 PM",
+    "02/27/2023 07:05 PM",
+    "Shoplifting",
+    "290 Congress St",
+    "Huff, Curran"
+  ],
+  [
+    "2023010143",
+    "02/27/2023 07:06 PM",
+    "02/27/2023 07:31 PM",
+    "Assist Citizen",
+    "594 Congress St",
+    "Jackson, Jordin"
+  ],
+  [
+    "2023010145",
+    "02/27/2023 07:07 PM",
+    "02/27/2023 09:32 PM",
+    "Attempt To Locate",
+    "1 Citywide",
+    "Officer, Citywide"
+  ],
+  [
+    "2023010146",
+    "02/27/2023 07:17 PM",
+    "02/27/2023 07:25 PM",
+    "Motor Vehicle Stop",
+    "70 Forest Ave",
+    "Huff, Curran"
+  ],
+  [
+    "2023010148",
+    "02/27/2023 07:25 PM",
+    "02/27/2023 08:17 PM",
+    "Hit and Run Crash",
+    "51 Taft Ave",
+    "Turner, Jeremy"
+  ],
+  [
+    "2023010147",
+    "02/27/2023 07:27 PM",
+    "02/27/2023 09:16 PM",
+    "Pedestrian Check",
+    "1001 Westbrook St",
+    "Haley, Kevin"
+  ],
+  [
+    "2023010149",
+    "02/27/2023 07:28 PM",
+    "02/27/2023 07:37 PM",
+    "Suspicious Activity",
+    "Elm St/Oxford St",
+    "Huff, Curran"
+  ],
+  [
+    "2023010150",
+    "02/27/2023 07:33 PM",
+    "02/27/2023 07:48 PM",
+    "Hit and Run Crash",
+    "784 Ocean Ave",
+    "Lukasiewicz, Mary"
+  ],
+  [
+    "2023010151",
+    "02/27/2023 07:55 PM",
+    "02/27/2023 08:42 PM",
+    "Domestic Dispute - Verbal",
+    "58 Winding Way",
+    "MacLean, Morgan"
+  ],
+  [
+    "2023010152",
+    "02/27/2023 08:01 PM",
+    "02/27/2023 08:02 PM",
+    "Motor Vehicle Stop",
+    "Forest Ave/Marginal Way",
+    "Webster, Jacob"
+  ],
+  [
+    "2023010153",
+    "02/27/2023 08:06 PM",
+    "02/27/2023 09:12 PM",
+    "Motor Vehicle Stop",
+    "High St/Park Ave",
+    "Huff, Curran"
+  ],
+  [
+    "2023010154",
+    "02/27/2023 08:07 PM",
+    "02/27/2023 08:24 PM",
+    "911 Hang Up Calls",
+    "1100 Brighton Ave",
+    "Turner, Jeremy"
+  ],
+  [
+    "2023010155",
+    "02/27/2023 08:10 PM",
+    "02/27/2023 08:45 PM",
+    "Burglary Alarm",
+    "126 N Boyd St",
+    "Jackson, Jordin"
+  ],
+  [
+    "2023010156",
+    "02/27/2023 08:15 PM",
+    "02/27/2023 08:26 PM",
+    "Disturbance",
+    "56 Commercial St",
+    "Jackson, Jordin"
+  ],
+  [
+    "2023010157",
+    "02/27/2023 08:19 PM",
+    "02/27/2023 08:42 PM",
+    "Disturbance",
+    "362 Cumberland Ave,Apt 4",
+    "Jackson, Jordin"
+  ],
+  [
+    "2023010158",
+    "02/27/2023 08:20 PM",
+    "02/27/2023 09:43 PM",
+    "Fraud",
+    "1375 Forest Ave",
+    "Moore, David"
+  ],
+  [
+    "2023010159",
+    "02/27/2023 08:42 PM",
+    "02/27/2023 08:58 PM",
+    "Check Well Being",
+    "667 Congress St",
+    "Jashinski, Alex"
+  ],
+  [
+    "2023010161",
+    "02/27/2023 08:55 PM",
+    "02/27/2023 09:02 PM",
+    "Check Well Being",
+    "65 Commercial St",
+    "Jackson, Jordin"
+  ],
+  [
+    "2023010162",
+    "02/27/2023 09:36 PM",
+    "02/27/2023 09:47 PM",
+    "Animal Complaint",
+    "High St/Congress St",
+    "Jashinski, Alex"
+  ],
+  [
+    "",
+    "Domestic Dispute - Assault",
+    "41 Rosemont Ave",
+    "Turner, Jeremy",
+    "2023010164",
+    "02/27/2023 10:08 PM"
+  ],
+  [
+    "02/27/2023 10:51 PM",
+    "Burglary Alarm",
+    "56 Evergreen Dr",
+    "Jackson, Jordin",
+    "2023010166",
+    "02/27/2023 10:30 PM"
+  ],
+  [
+    "02/27/2023 10:34 PM",
+    "Motor Vehicle Stop",
+    "Congress St/Saint John St",
+    "Huff, Curran",
+    "2023010167",
+    "02/27/2023 10:32 PM"
+  ],
+  [
+    "02/27/2023 10:56 PM",
+    "Broken Down MV",
+    "45 Park Ave,Ballfield",
+    "Buckley, William",
+    "2023010168",
+    "02/27/2023 11:01 PM"
+  ],
+  [
+    "02/27/2023 11:05 PM",
+    "Motor Vehicle Stop",
+    "I295 5a Sb/Ramp Off 295 Sb Hwy",
+    "Huff, Curran",
+    "2023010169",
+    "02/27/2023 11:23 PM"
+  ],
+  [
+    "02/27/2023 11:25 PM",
+    "Motor Vehicle Stop",
+    "Park Ave/State St",
+    "Buckley, William",
+    "2023010170",
+    "02/27/2023 11:24 PM"
+  ],
+  [
+    "02/27/2023 11:25 PM",
+    "Suspicious Activity",
+    "489 Ocean Ave",
+    "Burke, John",
+    "2023010172",
+    "02/27/2023 11:26 PM"
+  ],
+  [
+    "02/28/2023 12:05 AM",
+    "Check Well Being",
+    "55 Lambert St,Apt 10",
+    "Knutson, Kyle",
+    "2023010171",
+    "02/27/2023 11:31 PM"
+  ],
+  [
+    "02/27/2023 11:38 PM",
+    "Motor Vehicle Stop",
+    "7 Rand Rd",
+    "Webster, Jacob",
+    "2023010173",
+    "02/27/2023 11:46 PM"
+  ],
+  [
+    "02/27/2023 11:49 PM",
+    "Motor Vehicle Stop",
+    "Park Ave/Mellen St",
+    "Jackson, Jordin",
+    "Total calls:",
+    "109"
+  ]
+]
