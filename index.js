@@ -12,9 +12,10 @@ const getTextItems = async (page) => {
     return textItems;
 }
 
-const getContent = async (page) => {
+const getContent = async (page, startIndex = 21) => {
     const items = await getTextItems(page);
-    const itemsContent = items.slice(21);
+    console.log({startIndex})
+    const itemsContent = items.slice(startIndex);
 
     const rows  = [];
     let currRow = [];
@@ -58,13 +59,16 @@ const getContent = async (page) => {
 
     for (let i = 1; i <= pdf.numPages; i++) {
         const page = await pdf.getPage(i);
-        const content = await getContent(page)
+        const content = await getContent(page, i === pdf.numPages ? 14 : 21)
         contents = contents.concat(content)
     }
 
+    // add fields
+    contents = contents.map(event => (Object.fromEntries(event.map((attrib, i) => [fields[i], attrib]))));
     console.log(contents)
 
-    fs.writeFileSync('./results.json', JSON.stringify(contents, null, 2));
+
+    fs.writeFileSync('./results.json', JSON.stringify({metadata, contents}, null, 2));
 
 })();
     
