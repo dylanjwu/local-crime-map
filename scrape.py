@@ -1,25 +1,37 @@
 import requests as req
-from bs4 import BeautifulSoup
-from lxml import etree
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+import os
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-# url ="https://content.civicplus.com/api/assets/56ffc449-ba17-444b-af49-13e710776a55"
-# resp = req.get(url)
 
-# with open('my_pdf.pdf', 'wb') as f:
-#  dh  f.write(resp.content)
+# chrome_options = Options()
+# chrome_options.add_argument("--headless")
 
+driver = webdriver.Chrome('./chromedriver', options={})
+url = 'https://www.portlandmaine.gov/472/Daily-Media-Logs'
 
-list_url = 'https://www.portlandmaine.gov/472/Daily-Media-Logs'
-list_page_resp = req.get(list_url) 
-soup = BeautifulSoup(list_page_resp.content, 'html.parser')
-dom = etree.HTML(str(soup))
-# print(dom.xpath('//*[@id="firstHeading"]')[0].text)
+driver.get(url)
+path = '/html/body/div[4]/div/div[2]/div[2]/div[4]/div/div/div[1]/div/div[2]/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]/div/ul'
 
-ul_xpath = '//*[@id="widget0a208dd8-b51a-4e64-8157-04f981e4e74d"]/div/div/div/div/div/div/div/div/div/div[2]/div/ul'
+wait = WebDriverWait(driver, 10)
 
-res = dom.xpath(ul_xpath)
+element = wait.until(EC.presence_of_element_located((By.XPATH, path)))
 
-print(res)
+ul = driver.find_element(By.XPATH, path)
+
+li_tags = ul.find_elements(By.TAG_NAME, "li")
+
+for li in li_tags:
+    a_tag = li.find_element(By.TAG_NAME, "a")
+    href = a_tag.get_attribute("href")
+    resp = req.get(href)
+    filepath = os.path.join('pdfs', href.split('/')[-1])
+    with open(f'{filepath}.pdf', 'wb') as f:
+        f.write(resp.content)
 
 
 

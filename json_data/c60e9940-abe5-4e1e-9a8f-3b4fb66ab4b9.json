@@ -1,0 +1,888 @@
+{
+  "metadata": {
+    "exactTime": "Printed On: 02/25/23 06:10",
+    "dateString": "Friday, February 24, 2023"
+  },
+  "contents": [
+    {
+      "callNum": "2023009526",
+      "callStart": "02/24/2023 12:05 AM",
+      "callEnd": "02/24/2023 12:16 AM",
+      "type": "Special Attention Check",
+      "location": "411 Marginal Way",
+      "officerName": "Burnell, Matthew"
+    },
+    {
+      "callNum": "2023009527",
+      "callStart": "02/24/2023 12:17 AM",
+      "callEnd": "02/24/2023 12:23 AM",
+      "type": "Pedestrian Check",
+      "location": "87 Marginal Way",
+      "officerName": "Curtin, Ryan"
+    },
+    {
+      "callNum": "2023009529",
+      "callStart": "02/24/2023 12:50 AM",
+      "callEnd": "02/24/2023 01:02 AM",
+      "type": "Assist EMS",
+      "location": "6 Pine St",
+      "officerName": "Nielsen, Kevin"
+    },
+    {
+      "callNum": "2023009531",
+      "callStart": "02/24/2023 01:02 AM",
+      "callEnd": "02/24/2023 01:09 AM",
+      "type": "Behavioral Health",
+      "location": "165 Cumberland Ave",
+      "officerName": "Curtin, Ryan"
+    },
+    {
+      "callNum": "2023009532",
+      "callStart": "02/24/2023 01:09 AM",
+      "callEnd": "02/24/2023 01:30 AM",
+      "type": "Disturbance",
+      "location": "701 Congress St",
+      "officerName": "Curtin, Ryan"
+    },
+    {
+      "callNum": "2023009533",
+      "callStart": "02/24/2023 01:10 AM",
+      "callEnd": "02/24/2023 01:40 AM",
+      "type": "PI Crash",
+      "location": "91 Auburn St",
+      "officerName": "Fitzgerald, Terrence"
+    },
+    {
+      "callNum": "2023009536",
+      "callStart": "02/24/2023 01:52 AM",
+      "callEnd": "02/24/2023 02:20 AM",
+      "type": "Suspicious Activity",
+      "location": "3 Aldworth St",
+      "officerName": "Fitzgerald, Terrence"
+    },
+    {
+      "callNum": "2023009537",
+      "callStart": "02/24/2023 02:08 AM",
+      "callEnd": "02/24/2023 03:12 AM",
+      "type": "Person(s) Bothering",
+      "location": "33 Alder St,Apt 2",
+      "officerName": "Curtin, Ryan"
+    },
+    {
+      "callNum": "2023009539",
+      "callStart": "02/24/2023 03:40 AM",
+      "callEnd": "02/24/2023 03:55 AM",
+      "type": "Suspicious Activity",
+      "location": "190 Valley St",
+      "officerName": "Cannell, Ryan"
+    },
+    {
+      "callNum": "2023009542",
+      "callStart": "02/24/2023 04:02 AM",
+      "callEnd": "02/24/2023 04:16 AM",
+      "type": "Check Well Being",
+      "location": "Preble St/Cumberland Ave",
+      "officerName": "Curtin, Ryan"
+    },
+    {
+      "callNum": "2023009543",
+      "callStart": "02/24/2023 04:37 AM",
+      "callEnd": "02/24/2023 05:01 AM",
+      "type": "Drug Overdose",
+      "location": "340 Park Ave",
+      "officerName": "Gressler, Jacob"
+    },
+    {
+      "callNum": "2023009544",
+      "callStart": "02/24/2023 04:41 AM",
+      "callEnd": "02/24/2023 04:57 AM",
+      "type": "Refusing To Leave",
+      "location": "334 Forest Ave",
+      "officerName": "Burnell, Matthew"
+    },
+    {
+      "callNum": "2023009546",
+      "callStart": "02/24/2023 04:58 AM",
+      "callEnd": "02/24/2023 05:14 AM",
+      "type": "Criminal Trespass",
+      "location": "22 Bramhall St",
+      "officerName": "Cannell, Ryan"
+    },
+    {
+      "callNum": "2023009549",
+      "callStart": "02/24/2023 06:14 AM",
+      "callEnd": "02/24/2023 07:00 AM",
+      "type": "Burglary Alarm",
+      "location": "1093 Riverside St",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009550",
+      "callStart": "02/24/2023 06:22 AM",
+      "callEnd": "02/24/2023 06:50 AM",
+      "type": "Person(s) Bothering",
+      "location": "465 Congress St",
+      "officerName": "Stratis, William"
+    },
+    {
+      "callNum": "2023009552",
+      "callStart": "02/24/2023 06:27 AM",
+      "callEnd": "02/24/2023 07:23 AM",
+      "type": "Check Well Being",
+      "location": "162 Rowe Ave",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009551",
+      "callStart": "02/24/2023 06:30 AM",
+      "callEnd": "02/24/2023 08:10 AM",
+      "type": "Hit and Run Crash",
+      "location": "Forest Ave/Woodford St",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009553",
+      "callStart": "02/24/2023 06:44 AM",
+      "callEnd": "02/24/2023 08:31 AM",
+      "type": "Behavioral Health",
+      "location": "743 Congress St,Apt 5",
+      "officerName": "Grass, Zachery"
+    },
+    {
+      "callNum": "2023009554",
+      "callStart": "02/24/2023 07:06 AM",
+      "callEnd": "02/24/2023 07:16 AM",
+      "type": "Refusing To Leave",
+      "location": "393 Commercial St",
+      "officerName": "Argitis, David"
+    },
+    {
+      "callNum": "2023009556",
+      "callStart": "02/24/2023 07:33 AM",
+      "callEnd": "02/24/2023 07:41 AM",
+      "type": "Assist Citizen",
+      "location": "271 Park Ave",
+      "officerName": "Ross, Brent"
+    },
+    {
+      "callNum": "2023009557",
+      "callStart": "02/24/2023 07:34 AM",
+      "callEnd": "02/24/2023 07:43 AM",
+      "type": "Unknown Problem Medical",
+      "location": "511 Congress St",
+      "officerName": "Grass, Zachery"
+    },
+    {
+      "callNum": "2023009559",
+      "callStart": "02/24/2023 07:55 AM",
+      "callEnd": "02/24/2023 09:27 AM",
+      "type": "Weapons Violation/Possession",
+      "location": "105 Falmouth St",
+      "officerName": "Stewart, Anthony"
+    },
+    {
+      "callNum": "2023009560",
+      "callStart": "02/24/2023 07:59 AM",
+      "callEnd": "02/24/2023 09:01 AM",
+      "type": "PD Crash",
+      "location": "Stevens Ave/Brighton Ave",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009562",
+      "callStart": "02/24/2023 08:39 AM",
+      "callEnd": "02/24/2023 08:56 AM",
+      "type": "PD Crash",
+      "location": "939 Congress St",
+      "officerName": "Stratis, William"
+    },
+    {
+      "callNum": "2023009566",
+      "callStart": "02/24/2023 08:44 AM",
+      "callEnd": "02/24/2023 10:54 AM",
+      "type": "Missing Person(s)",
+      "location": "53 Ninth St,Apt 2",
+      "officerName": "Eide, Matthew"
+    },
+    {
+      "callNum": "2023009571",
+      "callStart": "02/24/2023 09:00 AM",
+      "callEnd": "02/24/2023 09:05 AM",
+      "type": "911 Hang Up Calls",
+      "location": "530 Brighton Ave",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009572",
+      "callStart": "02/24/2023 09:01 AM",
+      "callEnd": "02/24/2023 09:17 AM",
+      "type": "Person(s) Bothering",
+      "location": "127 Marginal Way",
+      "officerName": "Grass, Zachery"
+    },
+    {
+      "callNum": "2023009573",
+      "callStart": "02/24/2023 09:04 AM",
+      "callEnd": "02/24/2023 10:02 AM",
+      "type": "Keep The Peace",
+      "location": "400 Riverside St",
+      "officerName": "Gibson, Darrel"
+    },
+    {
+      "callNum": "2023009574",
+      "callStart": "02/24/2023 09:10 AM",
+      "callEnd": "02/24/2023 09:55 AM",
+      "type": "Burglary",
+      "location": "57 Exchange St,Ste 402",
+      "officerName": "Cole, Michelle"
+    },
+    {
+      "callNum": "2023009576",
+      "callStart": "02/24/2023 09:35 AM",
+      "callEnd": "02/24/2023 09:38 AM",
+      "type": "Escorts",
+      "location": "277 Cumberland Ave",
+      "officerName": "Cummings, Amethyst"
+    },
+    {
+      "callNum": "2023009578",
+      "callStart": "02/24/2023 09:52 AM",
+      "callEnd": "02/24/2023 10:03 AM",
+      "type": "Assist Citizen",
+      "location": "274 Marginal Way",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023009579",
+      "callStart": "02/24/2023 09:55 AM",
+      "callEnd": "02/24/2023 01:23 PM",
+      "type": "Possible OUI",
+      "location": "158 Rowe Ave",
+      "officerName": "Eide, Matthew"
+    },
+    {
+      "callNum": "2023009580",
+      "callStart": "02/24/2023 10:04 AM",
+      "callEnd": "02/24/2023 01:56 PM",
+      "type": "Fraud",
+      "location": "109 Middle St",
+      "officerName": "Cole, Michelle"
+    },
+    {
+      "callNum": "2023009581",
+      "callStart": "02/24/2023 10:06 AM",
+      "callEnd": "02/24/2023 10:59 AM",
+      "type": "Criminal Trespass",
+      "location": "510 Congress St",
+      "officerName": "Grass, Zachery"
+    },
+    {
+      "callNum": "2023009590",
+      "callStart": "02/24/2023 10:56 AM",
+      "callEnd": "02/24/2023 11:06 AM",
+      "type": "911 Hang Up Calls",
+      "location": "Cumberland Ave/Stone St",
+      "officerName": "Grass, Zachery"
+    },
+    {
+      "callNum": "2023009589",
+      "callStart": "02/24/2023 10:57 AM",
+      "callEnd": "02/24/2023 11:48 AM",
+      "type": "Special Detail",
+      "location": "Forest Ave/Marginal Way",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023009592",
+      "callStart": "02/24/2023 11:06 AM",
+      "callEnd": "02/24/2023 11:21 AM",
+      "type": "Refusing To Leave",
+      "location": "15 Monument Sq",
+      "officerName": "Grass, Zachery"
+    },
+    {
+      "callNum": "2023009596",
+      "callStart": "02/24/2023 11:36 AM",
+      "callEnd": "02/24/2023 11:58 AM",
+      "type": "Vehicle Complaint",
+      "location": "33 Northwood Dr",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009598",
+      "callStart": "02/24/2023 12:01 PM",
+      "callEnd": "02/24/2023 01:47 PM",
+      "type": "Behavioral Health",
+      "location": "108 Clark St,Apt 1",
+      "officerName": "Argitis, David"
+    },
+    {
+      "callNum": "2023009604",
+      "callStart": "02/24/2023 12:18 PM",
+      "callEnd": "02/24/2023 01:10 PM",
+      "type": "Behavioral Health",
+      "location": "296 Woodford St,Rear 1",
+      "officerName": "Stewart, Anthony"
+    },
+    {
+      "callNum": "2023009605",
+      "callStart": "02/24/2023 12:39 PM",
+      "callEnd": "02/24/2023 01:25 PM",
+      "type": "911 Hang Up Calls",
+      "location": "27 Colonial Rd",
+      "officerName": "Stewart, Anthony"
+    },
+    {
+      "callNum": "2023009606",
+      "callStart": "02/24/2023 12:41 PM",
+      "callEnd": "02/24/2023 01:16 PM",
+      "type": "Refusing To Leave",
+      "location": "12 Alder St",
+      "officerName": "Grass, Zachery"
+    },
+    {
+      "callNum": "2023009610",
+      "callStart": "02/24/2023 01:14 PM",
+      "callEnd": "02/24/2023 01:54 PM",
+      "type": "Assault",
+      "location": "51 Sewall St",
+      "officerName": "Eide, Matthew"
+    },
+    {
+      "callNum": "2023009611",
+      "callStart": "02/24/2023 01:26 PM",
+      "callEnd": "02/24/2023 01:33 PM",
+      "type": "911 Hang Up Calls",
+      "location": "240 Harvard St",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009612",
+      "callStart": "02/24/2023 01:31 PM",
+      "callEnd": "02/24/2023 01:47 PM",
+      "type": "Burglary Alarm",
+      "location": "856 Brighton Ave",
+      "officerName": "Gibson, Darrel"
+    },
+    {
+      "callNum": "2023009615",
+      "callStart": "02/24/2023 01:47 PM",
+      "callEnd": "02/24/2023 02:11 PM",
+      "type": "Check Well Being",
+      "location": "87 Marginal Way",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023009618",
+      "callStart": "02/24/2023 02:08 PM",
+      "callEnd": "02/24/2023 02:44 PM",
+      "type": "PD Crash",
+      "location": "290 Congress St",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023009620",
+      "callStart": "02/24/2023 02:29 PM",
+      "callEnd": "02/24/2023 03:20 PM",
+      "type": "Serving Paperwork",
+      "location": "105 Falmouth St,Apt 2",
+      "officerName": "Stewart, Anthony"
+    },
+    {
+      "callNum": "2023009622",
+      "callStart": "02/24/2023 02:37 PM",
+      "callEnd": "02/24/2023 03:28 PM",
+      "type": "PD Crash",
+      "location": "295 Forest Ave",
+      "officerName": "Lowe, Joseph"
+    },
+    {
+      "callNum": "2023009624",
+      "callStart": "02/24/2023 02:42 PM",
+      "callEnd": "02/24/2023 03:08 PM",
+      "type": "Behavioral Health",
+      "location": "15 Temple St",
+      "officerName": "Russell, Kimberly"
+    },
+    {
+      "callNum": "2023009625",
+      "callStart": "02/24/2023 02:44 PM",
+      "callEnd": "02/24/2023 03:15 PM",
+      "type": "Motor Vehicle Stop",
+      "location": "Forest Ave/Walton St",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009627",
+      "callStart": "02/24/2023 02:50 PM",
+      "callEnd": "02/24/2023 03:55 PM",
+      "type": "PD Crash",
+      "location": "Deering Ave/Coyle St",
+      "officerName": "Eide, Matthew"
+    },
+    {
+      "callNum": "2023009628",
+      "callStart": "02/24/2023 02:57 PM",
+      "callEnd": "02/24/2023 05:55 PM",
+      "type": "Unattended Death",
+      "location": "151 North St,Apt 304",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023009629",
+      "callStart": "02/24/2023 02:57 PM",
+      "callEnd": "02/24/2023 05:31 PM",
+      "type": "Shoplifting",
+      "location": "295 Forest Ave",
+      "officerName": "Gibson, Darrel"
+    },
+    {
+      "callNum": "2023009631",
+      "callStart": "02/24/2023 03:11 PM",
+      "callEnd": "02/24/2023 06:03 PM",
+      "type": "Found Property",
+      "location": "195 North St",
+      "officerName": "Knutson, Kyle"
+    },
+    {
+      "callNum": "2023009632",
+      "callStart": "02/24/2023 03:13 PM",
+      "callEnd": "02/24/2023 05:04 PM",
+      "type": "Suspicious Activity",
+      "location": "Forest Ave/High St",
+      "officerName": "Grass, Zachery"
+    },
+    {
+      "callNum": "2023009633",
+      "callStart": "02/24/2023 03:20 PM",
+      "callEnd": "02/24/2023 04:58 PM",
+      "type": "PD Crash",
+      "location": "183 Park Ave",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023009635",
+      "callStart": "02/24/2023 03:31 PM",
+      "callEnd": "02/24/2023 05:46 PM",
+      "type": "Assault",
+      "location": "22 Bramhall St",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023009638",
+      "callStart": "02/24/2023 03:54 PM",
+      "callEnd": "02/24/2023 04:27 PM",
+      "type": "Violation Of Paperwork",
+      "location": "13 Glenridge Dr",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009639",
+      "callStart": "02/24/2023 04:17 PM",
+      "callEnd": "02/24/2023 04:25 PM",
+      "type": "911 Hang Up Calls",
+      "location": "1 Civic Center Sq",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023009640",
+      "callStart": "02/24/2023 04:23 PM",
+      "callEnd": "02/24/2023 04:35 PM",
+      "type": "Check Well Being",
+      "location": "India St/Newbury St",
+      "officerName": "Rozzi, Vincent"
+    },
+    {
+      "callNum": "2023009641",
+      "callStart": "02/24/2023 04:28 PM",
+      "callEnd": "02/24/2023 04:42 PM",
+      "type": "Refusing To Leave",
+      "location": "15 Temple St",
+      "officerName": "Rozzi, Vincent"
+    },
+    {
+      "callNum": "2023009643",
+      "callStart": "02/24/2023 04:46 PM",
+      "callEnd": "02/24/2023 05:03 PM",
+      "type": "Vehicle Complaint",
+      "location": "Ludlow St/Leland St",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023009644",
+      "callStart": "02/24/2023 05:04 PM",
+      "callEnd": "02/24/2023 06:52 PM",
+      "type": "Serving Paperwork",
+      "location": "114 Valley St",
+      "officerName": "McIlwaine, Kyle"
+    },
+    {
+      "callNum": "2023009645",
+      "callStart": "02/24/2023 05:11 PM",
+      "callEnd": "02/24/2023 05:14 PM",
+      "type": "Motor Vehicle Stop",
+      "location": "250 Canco Rd",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009646",
+      "callStart": "02/24/2023 05:11 PM",
+      "callEnd": "02/24/2023 05:26 PM",
+      "type": "911 Hang Up Calls",
+      "location": "44 Taft Ave",
+      "officerName": "Gressler, Jacob"
+    },
+    {
+      "callNum": "2023009649",
+      "callStart": "02/24/2023 05:35 PM",
+      "callEnd": "02/24/2023 05:35 PM",
+      "type": "Special Attention Check",
+      "location": "400 Deering Ave,Ste 1",
+      "officerName": "Ampezzan, Anthony"
+    },
+    {
+      "callNum": "2023009650",
+      "callStart": "02/24/2023 05:37 PM",
+      "callEnd": "02/24/2023 05:56 PM",
+      "type": "Refusing To Leave",
+      "location": "256 Saint John St",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023009651",
+      "callStart": "02/24/2023 05:43 PM",
+      "callEnd": "02/24/2023 06:30 PM",
+      "type": "Theft",
+      "location": "85 Granite St,Apt 1",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023009652",
+      "callStart": "02/24/2023 05:50 PM",
+      "callEnd": "02/24/2023 06:15 PM",
+      "type": "Refusing To Leave",
+      "location": "2 Somerset St",
+      "officerName": "Rozzi, Vincent"
+    },
+    {
+      "callNum": "2023009653",
+      "callStart": "02/24/2023 05:51 PM",
+      "callEnd": "02/24/2023 06:07 PM",
+      "type": "Burglary Alarm",
+      "location": "331 Veranda St",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009654",
+      "callStart": "02/24/2023 05:58 PM",
+      "callEnd": "02/24/2023 06:07 PM",
+      "type": "Special Attention Check",
+      "location": "2086 Congress St",
+      "officerName": "Ampezzan, Anthony"
+    },
+    {
+      "callNum": "2023009655",
+      "callStart": "02/24/2023 06:06 PM",
+      "callEnd": "02/24/2023 06:28 PM",
+      "type": "Assist Citizen",
+      "location": "109 Middle St",
+      "officerName": "Rozzi, Vincent"
+    },
+    {
+      "callNum": "2023009656",
+      "callStart": "02/24/2023 06:09 PM",
+      "callEnd": "02/24/2023 06:29 PM",
+      "type": "Found Property",
+      "location": "766 Congress St",
+      "officerName": "McIlwaine, Kyle"
+    },
+    {
+      "callNum": "2023009657",
+      "callStart": "02/24/2023 06:37 PM",
+      "callEnd": "02/24/2023 07:05 PM",
+      "type": "Criminal Trespass",
+      "location": "415 Congress St",
+      "officerName": "McIlwaine, Kyle"
+    },
+    {
+      "callNum": "2023009658",
+      "callStart": "02/24/2023 06:40 PM",
+      "callEnd": "02/24/2023 07:32 PM",
+      "type": "Person(s) Bothering",
+      "location": "58 Boyd St",
+      "officerName": "Rozzi, Vincent"
+    },
+    {
+      "callNum": "2023009659",
+      "callStart": "02/24/2023 06:51 PM",
+      "callEnd": "02/24/2023 07:15 PM",
+      "type": "Possible OUI",
+      "location": "1208 Forest Ave",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009661",
+      "callStart": "02/24/2023 07:05 PM",
+      "callEnd": "02/24/2023 07:10 PM",
+      "type": "Behavioral Health",
+      "location": "389 Congress St",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023009662",
+      "callStart": "02/24/2023 07:06 PM",
+      "callEnd": "02/24/2023 07:18 PM",
+      "type": "911 Hang Up Calls",
+      "location": "37 Colonial Rd",
+      "officerName": "Gressler, Jacob"
+    },
+    {
+      "callNum": "2023009663",
+      "callStart": "02/24/2023 07:14 PM",
+      "callEnd": "02/24/2023 07:14 PM",
+      "type": "Special Attention Check",
+      "location": "159 Hicks St",
+      "officerName": "Ampezzan, Anthony"
+    },
+    {
+      "callNum": "2023009664",
+      "callStart": "02/24/2023 07:17 PM",
+      "callEnd": "02/24/2023 07:25 PM",
+      "type": "Motor Vehicle Stop",
+      "location": "Forest Ave/Lincoln St",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023009666",
+      "callStart": "02/24/2023 07:36 PM",
+      "callEnd": "02/24/2023 07:39 PM",
+      "type": "Motor Vehicle Stop",
+      "location": "Ocean Ave/Dudley St",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009668",
+      "callStart": "02/24/2023 07:38 PM",
+      "callEnd": "02/24/2023 08:34 PM",
+      "type": "Behavioral Health",
+      "location": "1119 Washington Ave",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023009669",
+      "callStart": "02/24/2023 07:51 PM",
+      "callEnd": "02/24/2023 09:24 PM",
+      "type": "Criminal Trespass",
+      "location": "510 Congress St",
+      "officerName": "McIlwaine, Kyle"
+    },
+    {
+      "callNum": "2023009671",
+      "callStart": "02/24/2023 07:52 PM",
+      "callEnd": "02/24/2023 08:07 PM",
+      "type": "Behavioral Health",
+      "location": "257 Canco Rd,Apt 114",
+      "officerName": "Russell, Kimberly"
+    },
+    {
+      "callNum": "2023009670",
+      "callStart": "02/24/2023 07:53 PM",
+      "callEnd": "02/24/2023 07:57 PM",
+      "type": "Burglary Alarm",
+      "location": "34 Exchange St",
+      "officerName": "Coyne, Samuel"
+    },
+    {
+      "callNum": "2023009673",
+      "callStart": "02/24/2023 08:06 PM",
+      "callEnd": "02/24/2023 08:33 PM",
+      "type": "Person(s) Bothering",
+      "location": "144 State St",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023009674",
+      "callStart": "02/24/2023 08:08 PM",
+      "callEnd": "02/24/2023 08:08 PM",
+      "type": "Walking a Footbeat",
+      "location": "21 Popham St",
+      "officerName": "Ampezzan, Anthony"
+    },
+    {
+      "callNum": "2023009675",
+      "callStart": "02/24/2023 08:39 PM",
+      "callEnd": "02/24/2023 10:08 PM",
+      "type": "Animal Complaint",
+      "location": "15 Croquet Ln",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023009677",
+      "callStart": "02/24/2023 08:50 PM",
+      "callEnd": "02/24/2023 09:54 PM",
+      "type": "Theft",
+      "location": "633 Congress St,Apt 109",
+      "officerName": "Curtin, Ryan"
+    },
+    {
+      "callNum": "2023009678",
+      "callStart": "02/24/2023 08:52 PM",
+      "callEnd": "02/24/2023 10:05 PM",
+      "type": "Domestic Dispute - Verbal",
+      "location": "211 Eben Hill Dr",
+      "officerName": "Gressler, Jacob"
+    },
+    {
+      "callNum": "2023009679",
+      "callStart": "02/24/2023 09:15 PM",
+      "callEnd": "02/24/2023 10:25 PM",
+      "type": "Parking Complaint",
+      "location": "Winter St/Spring St",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023009680",
+      "callStart": "02/24/2023 09:17 PM",
+      "callEnd": "02/24/2023 09:31 PM",
+      "type": "911 Hang Up Calls",
+      "location": "1 Civic Center Sq",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023009681",
+      "callStart": "02/24/2023 09:24 PM",
+      "callEnd": "02/24/2023 09:41 PM",
+      "type": "Parking Complaint",
+      "location": "10 Cleeve St",
+      "officerName": "Burnell, Matthew"
+    },
+    {
+      "callNum": "2023009682",
+      "callStart": "02/24/2023 09:28 PM",
+      "callEnd": "02/24/2023 09:44 PM",
+      "type": "Disturbance",
+      "location": "1363 Washington Ave",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023009683",
+      "callStart": "02/24/2023 09:29 PM",
+      "callEnd": "02/24/2023 10:11 PM",
+      "type": "911 Hang Up Calls",
+      "location": "110 Park Ave",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023009684",
+      "callStart": "02/24/2023 09:38 PM",
+      "callEnd": "02/24/2023 10:02 PM",
+      "type": "Suspicious Activity",
+      "location": "18 Parris St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023009685",
+      "callStart": "02/24/2023 09:45 PM",
+      "callEnd": "02/24/2023 10:00 PM",
+      "type": "Refusing To Leave",
+      "location": "401 Cumberland Ave",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023009686",
+      "callStart": "02/24/2023 09:47 PM",
+      "callEnd": "02/24/2023 11:15 PM",
+      "type": "Person(s) Bothering",
+      "location": "522 Congress St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023009688",
+      "callStart": "02/24/2023 10:03 PM",
+      "callEnd": "02/24/2023 10:33 PM",
+      "type": "Person(s) Bothering",
+      "location": "30 Preble St,Apt 558",
+      "officerName": "Curtin, Ryan"
+    },
+    {
+      "callNum": "2023009690",
+      "callStart": "02/24/2023 10:12 PM",
+      "callEnd": "02/24/2023 10:22 PM",
+      "type": "Burglary Alarm",
+      "location": "34 Exchange St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023009692",
+      "callStart": "02/24/2023 10:14 PM",
+      "callEnd": "02/24/2023 10:25 PM",
+      "type": "Disturbance",
+      "location": "121 Center St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023009693",
+      "callStart": "02/24/2023 10:20 PM",
+      "callEnd": "02/24/2023 10:36 PM",
+      "type": "911 Hang Up Calls",
+      "location": "613 Congress St",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023009694",
+      "callStart": "02/24/2023 10:22 PM",
+      "callEnd": "02/24/2023 10:35 PM",
+      "type": "911 Hang Up Calls",
+      "location": "150 High St",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023009695",
+      "callStart": "02/24/2023 10:22 PM",
+      "callEnd": "02/24/2023 11:24 PM",
+      "type": "Disturbance",
+      "location": "58 Boyd St,Apt 601",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023009697",
+      "callStart": "02/24/2023 10:51 PM",
+      "callEnd": "02/24/2023 11:07 PM",
+      "type": "911 Hang Up Calls",
+      "location": "1 Congress Sq",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023009701",
+      "callStart": "02/24/2023 10:54 PM",
+      "callEnd": "02/24/2023 11:29 PM",
+      "type": "Behavioral Health",
+      "location": "257 Canco Rd,Apt 114",
+      "officerName": "Nielsen, Kevin"
+    },
+    {
+      "callNum": "2023009698",
+      "callStart": "02/24/2023 11:01 PM",
+      "callEnd": "02/24/2023 11:51 PM",
+      "type": "Person(s) Bothering",
+      "location": "701 Congress St",
+      "officerName": "Curtin, Ryan"
+    },
+    {
+      "callNum": "2023009700",
+      "callStart": "02/24/2023 11:08 PM",
+      "callEnd": "02/24/2023 11:14 PM",
+      "type": "Motor Vehicle Stop",
+      "location": "Washington Ave/Cummings St",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023009702",
+      "callStart": "02/24/2023 11:39 PM",
+      "callEnd": "02/24/2023 11:45 PM",
+      "type": "General Information",
+      "location": "200 Riverside St",
+      "officerName": "Gray, Robert"
+    }
+  ]
+}
