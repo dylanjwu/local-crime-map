@@ -2,28 +2,22 @@ const { getDocument } = require('pdfjs-dist');
 const fs = require('fs');
 
 const getTextItems = async (page) => {
-
     const content = await page.getTextContent();
-
-    // fs.writeFileSync('./results.json', JSON.stringify(content.items, null, 2));
-
     const textItems = content.items.map(item => item.str);
-
     return textItems;
 }
 
 const getContent = async (page, startIndex = 21) => {
     const items = await getTextItems(page);
-    console.log({startIndex})
     const itemsContent = items.slice(startIndex);
 
-    const rows  = [];
+    const rows = [];
     let currRow = [];
 
     let currStr = '';
     let columns = 0;
 
-    for (let i = 0; i < itemsContent.length; i++){
+    for (let i = 0; i < itemsContent.length; i++) {
         if (itemsContent[i] === '' || itemsContent[i] === ' ') {
             currRow.push(currStr.trim());
             currStr = '';
@@ -41,8 +35,9 @@ const getContent = async (page, startIndex = 21) => {
     return rows;
 }
 
-(async() => {
-    const pdfFile = fs.readFileSync('./logs.pdf');
+const writeJsonFile = async (path) => {
+
+    const pdfFile = fs.readFileSync(path);
 
     const pdf = await getDocument({ data: pdfFile }).promise;
 
@@ -68,7 +63,21 @@ const getContent = async (page, startIndex = 21) => {
     console.log(contents)
 
 
-    fs.writeFileSync('./results.json', JSON.stringify({metadata, contents}, null, 2));
+    console.log(path)
+    const splitPath = path.split('/')
+    const filepath = `${splitPath[splitPath.length-1].split('.')[0]}.json`
+    console.log(filepath)
+    fs.writeFileSync('./json_data/' + filepath, JSON.stringify({ metadata, contents }, null, 2));
+};
 
-})();
-    
+const writeAll = () => {
+    const dir = '../scrape-py/pdfs';
+    fs.readdir(dir, (err, files) => {
+        Promise.all(files.map(file => {
+            console.log(file);
+            writeJsonFile(dir + '/' + file);
+        }));
+    });
+}
+
+writeA()
