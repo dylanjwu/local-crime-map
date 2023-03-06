@@ -1,0 +1,7 @@
+{
+    "migrations": [
+        "001.create_types_table.sql",
+        "002.create_officers_table.sql",
+        "003.create_calls_table.sql"
+    ]
+}

@@ -1,13 +1,13 @@
 const { getDocument } = require('pdfjs-dist');
 const fs = require('fs');
 
-const getTextItems = async (page) => {
+const getTextItems = async(page) => {
     const content = await page.getTextContent();
     const textItems = content.items.map(item => item.str);
     return textItems;
 }
 
-const getContent = async (page, startIndex = 21) => {
+const getContent = async(page, startIndex = 21) => {
     const items = await getTextItems(page);
     const itemsContent = items.slice(startIndex);
 
@@ -35,7 +35,7 @@ const getContent = async (page, startIndex = 21) => {
     return rows;
 }
 
-const writeJsonFile = async (path) => {
+const writeJsonFile = async(path) => {
 
     const pdfFile = fs.readFileSync(path);
 
@@ -80,4 +80,4 @@ const writeAll = () => {
     });
 }
 
-writeA()
+writeAll()
