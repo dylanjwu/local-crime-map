@@ -26,5 +26,6 @@ Tasks
 - [x] Load JSON into postgres tables
 - [x] Express endpoint for getting all calls
 - [ ] Basic react app -- with mapbox and getting calls
+- [ ] Refactor scraping code into puppeteer or something
 - [ ] Optimize data insertions and parsing with json streams
 - [ ] Set up and automate scheduled pipeline (scrape pdfs -> store in s3 -> parse pdfs -> stream json data into postgres tables -> send debezium message to kafka -> kafka tells the backend which tells the frontend)
