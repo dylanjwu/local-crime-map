@@ -18,3 +18,13 @@ This projects includes the following steps:
     - Show box of information when hovering over event
 - Deployment
     - Deploy using docker and some AWS hosting service like fargate or ecs
+
+
+Tasks
+- [x] Scrape data from website 
+- [x] Parse data as json
+- [x] Load JSON into postgres tables
+- [x] Express endpoint for getting all calls
+- [ ] Basic react app -- with mapbox and getting calls
+- [ ] Optimize data insertions and parsing with json streams
+- [ ] Set up and automate scheduled pipeline (scrape pdfs -> store in s3 -> parse pdfs -> stream json data into postgres tables -> send debezium message to kafka -> kafka tells the backend which tells the frontend)
