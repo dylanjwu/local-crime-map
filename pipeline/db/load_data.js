@@ -24,12 +24,12 @@ const getAllData = () => {
 const insertOfficers = async(conn, officerStrings) => {
     const officers = officerStrings.map(full => ({ first: full.split(' ')[0], last: full.split(' ').slice(1).join(' ') }));
     const officersJsonString = JSON.stringify(officers);
-    const INSERT_OFFICERS = new QueryFile('./insert_officers.sql', { minify: true });
+    const INSERT_OFFICERS = new QueryFile('./sql/insert_officers.sql', { minify: true });
     await conn.none(INSERT_OFFICERS, { officers: officersJsonString });
 };
 
 const insertCallTypes = async(conn, callTypes) => {
-    const INSERT_TYPES = new QueryFile('./insert_call_types.sql', { minify: true });
+    const INSERT_TYPES = new QueryFile('./sql/insert_call_types.sql', { minify: true });
     await conn.none(INSERT_TYPES, { callTypes });
 };
 
@@ -43,7 +43,7 @@ const insertCallsData = async(conn, callsData, officerNameToId, typeNameToId) =>
         officerId: officerNameToId[officerName]
     }));
 
-    const INSERT_CALLS = new QueryFile('./insert_calls.sql', { minify: true });
+    const INSERT_CALLS = new QueryFile('./sql/insert_calls.sql', { minify: true });
     await conn.none(INSERT_CALLS, { calls: JSON.stringify(calls) });
 }
 

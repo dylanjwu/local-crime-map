@@ -8,8 +8,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-# chrome_options = Options()
-# chrome_options.add_argument("--headless")
+chrome_options = Options()
+chrome_options.add_argument("--headless")
 
 driver = webdriver.Chrome('./chromedriver', options={})
 url = 'https://www.portlandmaine.gov/472/Daily-Media-Logs'
