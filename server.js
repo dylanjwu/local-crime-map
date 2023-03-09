@@ -1,12 +1,15 @@
 const express = require('express');
 const { db } = require('./pipeline/db/connect');
 const { getCalls } = require('./pipeline/db/getCalls');
+const cors = require('cors');
 
 require('nodemon');
 
-const port = 3000;
+const port = 3001;
 
 app = express();
+
+app.use(cors());
 
 app.use(express.json());
 
@@ -17,6 +20,7 @@ const addDb = (req, res, next) => {
 };
 
 app.use(addDb);
+
 
 
 app.get('/', (req, res) => {
