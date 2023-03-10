@@ -23,7 +23,7 @@ export default function App() {
     if (map.current) return; // initialize map only once
     map.current = new mapboxgl.Map({
       container: mapContainer.current,
-      style: 'mapbox://styles/mapbox/streets-v12',
+      style: 'mapbox://styles/dylanwu/clf2krxi1000b01w3bq9hlxvc',
       center: [lng, lat],
       zoom: zoom
     });
@@ -53,7 +53,10 @@ export default function App() {
                   ]
                 },
                 'properties': {
-                  'title': callLocation
+                  'title': callLocation,
+                  'markerColor': 'red',
+                  'popupContent': 'HELLO'
+
                 }
               }))
             }
@@ -66,6 +69,7 @@ export default function App() {
             'source': 'points',
             'layout': {
               'icon-image': 'custom-marker',
+              'icon-size': 1.5,
               // get the title name from the source's "title" property
               'text-field': ['get', 'title'],
               'text-font': [
@@ -74,10 +78,25 @@ export default function App() {
               ],
               'text-offset': [0, 1.25],
               'text-anchor': 'top'
+            },
+            'paint': {
+              'icon-color': ['get', 'markerColor']
             }
           });
+
+
+          console.log(map.current.getStyle());
         }
       );
+    });
+
+    map.current.on('click', 'points', (e) => {
+      const coordinates = e.features[0].geometry.coordinates.slice();
+      const popupContent = e.features[0].properties.popupContent;
+      new mapboxgl.Popup()
+        .setLngLat(coordinates)
+        .setHTML(popupContent)
+        .addTo(map.current);
     });
   }
 
@@ -99,6 +118,7 @@ export default function App() {
   //     setZoom(map.current.getZoom().toFixed(2));
   //   });
   // });
+ 
 
   return (<div>
     <div ref={mapContainer}
