@@ -2,15 +2,12 @@ import './App.css'
 import React, { useRef, useEffect, useState } from 'react';
 import mapboxgl from 'mapbox-gl';
 import axios from 'axios';
-import { geocode } from './geocode';
 
 import camelCase from 'camelcase-keys';
 
 const { REACT_APP_MAPBOX_TOKEN_PUBLIC } = process.env;
 const ACCESS_TOKEN = REACT_APP_MAPBOX_TOKEN_PUBLIC;
 mapboxgl.accessToken = ACCESS_TOKEN;
-
-console.log(ACCESS_TOKEN);
 
 export default function App() {
   const mapContainer = useRef(null);
@@ -20,16 +17,6 @@ export default function App() {
   const [zoom, setZoom] = useState(9);
 
   const loadMap = async (data) => {
-
-    const coordinates = []
-    for (const call of data.slice(0, 10)) {
-      const {callLocation}  = call;
-      const c = await geocode(`${callLocation}, Portland, Maine`); // TODO: move this to BE
-      coordinates.push({coords: c, address: callLocation});
-    }
-
-    console.log(JSON.stringify(coordinates, null, 2))
-
 
     // console.log(locations);
 
@@ -45,6 +32,7 @@ export default function App() {
     //   .addTo(map.current);
 
     map.current.on('load', () => {
+      console.log(data);
       // Add an image to use as a custom marker
       map.current.loadImage(
         'https://docs.mapbox.com/mapbox-gl-js/assets/custom_marker.png',
@@ -56,17 +44,17 @@ export default function App() {
             'type': 'geojson',
             'data': {
               'type': 'FeatureCollection',
-              'features': coordinates.map(({coords, address}) => ({
-                  'type': 'Feature',
-                  'geometry': {
-                    'type': 'Point',
-                    'coordinates': [
-                      coords.longitude, coords.latitude
-                    ]
-                  },
-                  'properties': {
-                    'title': address
-                  }
+              'features': data.map(({ coordinates, callLocation, callType }) => ({
+                'type': 'Feature',
+                'geometry': {
+                  'type': 'Point',
+                  'coordinates': [
+                    coordinates.x, coordinates.y
+                  ]
+                },
+                'properties': {
+                  'title': callLocation
+                }
               }))
             }
           });
@@ -101,20 +89,20 @@ export default function App() {
 
   useEffect(() => {
     getCalls().then(res => camelCase(res, { deep: true })).then((data) => loadMap(data));
-});
+  });
 
-    // useEffect(() => {
-    //   if (!map.current) return; // wait for map to initialize
-    //   map.current.on('move', () => {
-    //     setLng(map.current.getCenter().lng.toFixed(4));
-    //     setLat(map.current.getCenter().lat.toFixed(4));
-    //     setZoom(map.current.getZoom().toFixed(2));
-    //   });
-    // });
+  // useEffect(() => {
+  //   if (!map.current) return; // wait for map to initialize
+  //   map.current.on('move', () => {
+  //     setLng(map.current.getCenter().lng.toFixed(4));
+  //     setLat(map.current.getCenter().lat.toFixed(4));
+  //     setZoom(map.current.getZoom().toFixed(2));
+  //   });
+  // });
 
-    return (
-      <div>
-        <div ref={mapContainer} className="map-container" />
-      </div>
+  return (<div>
+    <div ref={mapContainer}
+      className="map-container" />
+    </div>
     );
-  }
+}
