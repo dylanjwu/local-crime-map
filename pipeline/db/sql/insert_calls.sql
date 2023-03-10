@@ -5,7 +5,8 @@ INSERT INTO
         call_end,
         type_id,
         call_location,
-        officer_id
+        officer_id,
+        coordinates
     )
 SELECT
     "callNum",
@@ -13,7 +14,8 @@ SELECT
     "callEnd"::TIMESTAMP,
     "typeId",
     "location",
-    "officerId"
+    "officerId",
+    POINT("longitude", "latitude")
 FROM
     jsonb_to_recordset(${calls}::JSONB) AS c(
         "callNum" BIGINT,
@@ -21,5 +23,7 @@ FROM
         "callEnd" TEXT,
         "typeId" INTEGER,
         "location" TEXT,
-        "officerId" INTEGER
+        "officerId" INTEGER,
+        "longitude" FLOAT,
+        "latitude" FLOAT
     );

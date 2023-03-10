@@ -1,6 +1,7 @@
 const { db } = require('./connect.js');
 const fs = require('fs');
 const path = require('path');
+const { geocode } = require('./geocode');
 
 const { QueryFile } = require('pg-promise');
 
@@ -34,13 +35,18 @@ const insertCallTypes = async(conn, callTypes) => {
 };
 
 const insertCallsData = async(conn, callsData, officerNameToId, typeNameToId) => {
-    const calls = callsData.map(({ callNum, callStart, callEnd, type, location, officerName }) => ({
-        callNum: Number(callNum),
-        callStart,
-        callEnd,
-        typeId: typeNameToId[type],
-        location,
-        officerId: officerNameToId[officerName]
+    const calls = await Promise.all(callsData.map(async({ callNum, callStart, callEnd, type, location, officerName }) => {
+        const { longitude, latitude } = await geocode(location);
+        return {
+            callNum: Number(callNum),
+            callStart,
+            callEnd,
+            typeId: typeNameToId[type],
+            location,
+            officerId: officerNameToId[officerName],
+            longitude,
+            latitude
+        }
     }));
 
     const INSERT_CALLS = new QueryFile('./sql/insert_calls.sql', { minify: true });
