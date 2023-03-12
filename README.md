@@ -4,7 +4,7 @@
 
 Latest project state:
 
-<img width="951" alt="Screen Shot 2023-03-12 at 2 55 29 PM" src="https://user-images.githubusercontent.com/17605743/224566400-90dbd69d-4179-4c52-9b5b-a570f0dfdfe4.png">
+<img width="971" alt="Screen Shot 2023-03-12 at 3 01 22 PM" src="https://user-images.githubusercontent.com/17605743/224566639-f93b99cb-552b-462d-b478-8a98e7bb6567.png">
 
 
 
