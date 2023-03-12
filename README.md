@@ -2,6 +2,11 @@
 
 ##### Objective: Provide map representation of publically available police call data from the Portland maine police dept
 
+Latest project state:
+
+<img width="951" alt="Screen Shot 2023-03-12 at 2 55 29 PM" src="https://user-images.githubusercontent.com/17605743/224566400-90dbd69d-4179-4c52-9b5b-a570f0dfdfe4.png">
+
+
 
 This projects includes the following steps:
 
