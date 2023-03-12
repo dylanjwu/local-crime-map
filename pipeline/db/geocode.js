@@ -8,9 +8,9 @@ const geocode = async(address) => {
     let fullAddress;
     const splitAddress = address.split('/');
     if (splitAddress.length > 1) {
-        fullAddress = `${splitAddress[0]}, Portland, Maine`;
+        fullAddress = `${splitAddress[0]} & ${splitAddress[1]}, Portland, Maine`;
     } else {
-        fullAddress = `${address} Portland Maine`;
+        fullAddress = `${address}, Portland, Maine`;
     }
 
     // console.log(fullAddress);
