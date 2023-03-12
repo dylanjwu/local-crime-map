@@ -1,1 +1,1 @@
-SELECT * FROM calls;
+SELECT * FROM calls c JOIN types t ON (c.type_id = t.id) JOIN officers o ON (c.officer_id = o.id);
