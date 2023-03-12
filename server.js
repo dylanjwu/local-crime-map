@@ -14,12 +14,18 @@ app.use(cors());
 app.use(express.json());
 
 
-const addDb = (req, res, next) => {
-    req.db = db();
-    next();
+const addDb = () => {
+    let dbObj = null;
+    return (req, res, next) => {
+        if (!dbObj) {
+            dbObj = db();
+        }
+        req.db = dbObj;
+        next();
+    };
 };
 
-app.use(addDb);
+app.use(addDb());
 
 
 
