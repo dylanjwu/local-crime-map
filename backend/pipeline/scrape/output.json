@@ -1,0 +1,399 @@
+[
+  {
+    "id": "14a46392-0ed2-4923-b797-f0b784d5998c",
+    "createdBy": "subject:e584c05f-c96e-42f9-b110-00f241f2734f",
+    "lastModifiedBy": "subject:840000ed-d574-4bd9-9c3b-3b2b303a49b7",
+    "data": {
+      "link": {
+        "en": {
+          "url": "https://translate.google.com/translate?sl=auto&tl=es&hl=en&u=https://www.portlandmaine.gov/&client=webapp",
+          "displayName": "Translate",
+          "openInNewWindow": false
+        }
+      }
+    },
+    "created": "2022-01-12T17:05:28Z",
+    "lastModified": "2022-11-11T20:32:03Z",
+    "status": "Published",
+    "statusColor": "#4caf50",
+    "contentTypeName": "link",
+    "contentTypeDisplayName": "Link",
+    "version": 7,
+    "contentTypeId": "e27aeae4-28d1-48ce-bfa1-5b0ccbcedd55,link",
+    "tagsDeleted": [],
+    "tags": [
+      "headergroup1"
+    ],
+    "categories": [
+      {
+        "id": "458f718d-a361-4e4f-bd39-54d41d38e9c1",
+        "name": "General"
+      }
+    ],
+    "permissionSet": {
+      "id": "594a7372-4d8e-485a-a25e-ad89cbee07c2",
+      "name": "System Admins",
+      "version": 0,
+      "lastModified": "1970-01-01T00:00:00Z",
+      "_links": {}
+    },
+    "notificationDetails": {
+      "subject": "A modification to a Link has been made!",
+      "smsMessage": "A modification to a Link has been made!"
+    },
+    "isEncrypted": false,
+    "emailAddresses": [],
+    "_links": {
+      "self": {
+        "href": "/api/content/me-portland/link/14a46392-0ed2-4923-b797-f0b784d5998c",
+        "method": "GET"
+      },
+      "previous": {
+        "href": "/api/content/me-portland/link/14a46392-0ed2-4923-b797-f0b784d5998c/6",
+        "method": "GET"
+      }
+    }
+  },
+  {
+    "id": "46fc8d44-3841-49ad-ba0a-ebe66ee2c123",
+    "createdBy": "subject:e584c05f-c96e-42f9-b110-00f241f2734f",
+    "lastModifiedBy": "subject:a03ebf8a-255a-45ca-ba60-aa8f439c542e",
+    "data": {
+      "link": {
+        "en": {
+          "url": "https://selfservice.portlandmaine.gov/css/citizens/default.aspx",
+          "displayName": "Citizen Self Service",
+          "openInNewWindow": false
+        }
+      }
+    },
+    "created": "2022-01-12T17:04:10Z",
+    "lastModified": "2022-10-07T15:12:28Z",
+    "status": "Published",
+    "statusColor": "#4caf50",
+    "contentTypeName": "link",
+    "contentTypeDisplayName": "Link",
+    "version": 6,
+    "contentTypeId": "e27aeae4-28d1-48ce-bfa1-5b0ccbcedd55,link",
+    "tagsDeleted": [],
+    "tags": [
+      "headergroup1"
+    ],
+    "categories": [
+      {
+        "id": "458f718d-a361-4e4f-bd39-54d41d38e9c1",
+        "name": "General"
+      }
+    ],
+    "permissionSet": {
+      "id": "594a7372-4d8e-485a-a25e-ad89cbee07c2",
+      "name": "System Admins",
+      "version": 0,
+      "lastModified": "1970-01-01T00:00:00Z",
+      "_links": {}
+    },
+    "notificationDetails": {
+      "subject": "A modification to a Link has been made!",
+      "smsMessage": "A modification to a Link has been made!"
+    },
+    "isEncrypted": false,
+    "emailAddresses": [],
+    "_links": {
+      "self": {
+        "href": "/api/content/me-portland/link/46fc8d44-3841-49ad-ba0a-ebe66ee2c123",
+        "method": "GET"
+      },
+      "previous": {
+        "href": "/api/content/me-portland/link/46fc8d44-3841-49ad-ba0a-ebe66ee2c123/5",
+        "method": "GET"
+      }
+    }
+  },
+  {
+    "id": "640c7bec-314f-4e5c-884e-c992ee62d669",
+    "createdBy": "subject:f280ca8c-a4ca-4af4-81da-a535d0325c62",
+    "lastModifiedBy": "subject:b5308f4d-08d5-4cfd-bf23-a88f11586aa3",
+    "data": {
+      "name": {
+        "en": "Daily Media Logs"
+      },
+      "article": {
+        "en": "<h2>Daily Call Logs for the Last Seven Days</h2><ul><li><u><a href=\"https://content.civicplus.com/api/assets/35260b1f-7fed-45a2-a33e-924c04d3afed\">Monday</a></u></li><li><a href=\"https://content.civicplus.com/api/assets/277f6f10-2ec4-43fd-b508-b1ae3f798f58\">Tuesday</a></li><li><a href=\"https://content.civicplus.com/api/assets/b364d22d-2c51-4704-b9ed-8de692d3a0e7\">Wednesday</a></li><li><a href=\"https://content.civicplus.com/api/assets/bb950ab2-92e1-4573-9158-4c84dff4f55a\">Thursday</a></li><li><a href=\"https://content.civicplus.com/api/assets/353a3ce0-e698-4dc0-abf2-0fd4adc79444\">Friday</a></li><li><a href=\"https://content.civicplus.com/api/assets/e2bfc651-1d60-4b77-a942-08e94c215fde\"></a><a href=\"https://content.civicplus.com/api/assets/02db2833-db99-4f53-ba32-d088c540656c\">Saturday</a></li><li><a href=\"https://content.civicplus.com/api/assets/de2dd765-3eaf-4d4c-a01c-621b70b6f166\">Sunday</a></li></ul>"
+      }
+    },
+    "created": "2022-04-15T19:06:30Z",
+    "lastModified": "2023-03-15T12:00:03Z",
+    "status": "Published",
+    "statusColor": "#4caf50",
+    "contentTypeName": "article",
+    "contentTypeDisplayName": "Article",
+    "version": 210,
+    "contentTypeId": "9ba16241-2e7c-4291-b25e-01a2dbb5afa0,article",
+    "tagsDeleted": [],
+    "tags": [],
+    "categories": [
+      {
+        "id": "af5e960f-89a6-4a35-aab4-f39c384d4f1d",
+        "name": "Police"
+      }
+    ],
+    "permissionSet": {
+      "id": "9bfa2131-c4a6-4489-acd6-9ad193f8827e",
+      "name": "Police",
+      "version": 0,
+      "lastModified": "1970-01-01T00:00:00Z",
+      "_links": {}
+    },
+    "notificationDetails": {
+      "subject": "A modification to a Article has been made!",
+      "smsMessage": "A modification to a Article has been made!"
+    },
+    "isEncrypted": false,
+    "emailAddresses": [],
+    "_links": {
+      "self": {
+        "href": "/api/content/me-portland/article/640c7bec-314f-4e5c-884e-c992ee62d669",
+        "method": "GET"
+      },
+      "previous": {
+        "href": "/api/content/me-portland/article/640c7bec-314f-4e5c-884e-c992ee62d669/209",
+        "method": "GET"
+      }
+    }
+  },
+  {
+    "id": "7f9c2d63-7ecd-40a2-857a-2814328dee20",
+    "parentId": "00000000-0000-0000-0000-000000000000",
+    "fileName": "City of Portland ME",
+    "fileHash": "YZkVUxq8lmfmpj6AkwxhehDvnQaF52OcLBPF+KzHQwI=",
+    "isProtected": false,
+    "slug": "city-of-portland-me.svg",
+    "mimeType": "image/svg+xml",
+    "fileType": "svg",
+    "fileExtension": "svg",
+    "metadataText": "6.5 kB",
+    "metadata": {
+      "City of Portland ME": "Logo"
+    },
+    "tags": [
+      "type/svg",
+      "image",
+      "image/small"
+    ],
+    "fileSize": 6653,
+    "fileVersion": 0,
+    "assetType": "Image",
+    "createdBy": "subject:e584c05f-c96e-42f9-b110-00f241f2734f",
+    "lastModifiedBy": "subject:e584c05f-c96e-42f9-b110-00f241f2734f",
+    "created": "2022-01-11T17:25:48Z",
+    "lastModified": "2022-01-11T17:25:48Z",
+    "version": 1,
+    "isImage": true,
+    "statusColor": "#4caf50",
+    "briefDescription": "",
+    "status": "Published",
+    "categories": [
+      {
+        "id": "458f718d-a361-4e4f-bd39-54d41d38e9c1",
+        "name": "General"
+      }
+    ],
+    "transcript": "",
+    "isPending": false,
+    "permissionSet": {
+      "id": "a225bb30-f421-494e-b8e3-39453e3c3d97",
+      "name": "CP Admin",
+      "version": 0,
+      "lastModified": "1970-01-01T00:00:00Z",
+      "_links": {}
+    },
+    "notificationDetails": {
+      "subject": "A new asset has been created!",
+      "smsMessage": "A new asset has been created!"
+    },
+    "isEncrypted": false,
+    "emailAddresses": [],
+    "_links": {
+      "self": {
+        "href": "/api/apps/me-portland/assets/7f9c2d63-7ecd-40a2-857a-2814328dee20",
+        "method": "GET"
+      },
+      "content": {
+        "href": "/api/assets/me-portland/7f9c2d63-7ecd-40a2-857a-2814328dee20/city-of-portland-me.svg",
+        "method": "GET"
+      },
+      "content/slug": {
+        "href": "/api/assets/me-portland/city-of-portland-me.svg",
+        "method": "GET"
+      },
+      "previous": {
+        "href": "/api/apps/me-portland/assets/7f9c2d63-7ecd-40a2-857a-2814328dee20?version=0",
+        "method": "GET"
+      }
+    }
+  },
+  {
+    "id": "90142ea6-d6c3-473e-ae49-fe9ac199b7a4",
+    "createdBy": "subject:e584c05f-c96e-42f9-b110-00f241f2734f",
+    "lastModifiedBy": "subject:0969ee7b-e2c5-4ad1-b600-0fda4f1557d6",
+    "data": {
+      "link": {
+        "en": {
+          "url": "https://portlandmaine-portal.app.transform.civicplus.com",
+          "displayName": "Forms",
+          "openInNewWindow": false
+        }
+      }
+    },
+    "created": "2022-01-12T17:08:22Z",
+    "lastModified": "2022-06-06T20:31:54Z",
+    "status": "Published",
+    "statusColor": "#4caf50",
+    "contentTypeName": "link",
+    "contentTypeDisplayName": "Link",
+    "version": 4,
+    "contentTypeId": "e27aeae4-28d1-48ce-bfa1-5b0ccbcedd55,link",
+    "tagsDeleted": [],
+    "tags": [
+      "headergroup1"
+    ],
+    "categories": [
+      {
+        "id": "458f718d-a361-4e4f-bd39-54d41d38e9c1",
+        "name": "General"
+      }
+    ],
+    "permissionSet": {
+      "id": "594a7372-4d8e-485a-a25e-ad89cbee07c2",
+      "name": "System Admins",
+      "version": 0,
+      "lastModified": "1970-01-01T00:00:00Z",
+      "_links": {}
+    },
+    "notificationDetails": {
+      "subject": "A modification to a Link has been made!",
+      "smsMessage": "A modification to a Link has been made!"
+    },
+    "isEncrypted": false,
+    "emailAddresses": [],
+    "_links": {
+      "self": {
+        "href": "/api/content/me-portland/link/90142ea6-d6c3-473e-ae49-fe9ac199b7a4",
+        "method": "GET"
+      },
+      "previous": {
+        "href": "/api/content/me-portland/link/90142ea6-d6c3-473e-ae49-fe9ac199b7a4/3",
+        "method": "GET"
+      }
+    }
+  },
+  {
+    "id": "ad9ce5d8-885b-4d01-bb89-29e418eadacc",
+    "createdBy": "subject:e584c05f-c96e-42f9-b110-00f241f2734f",
+    "lastModifiedBy": "subject:a03ebf8a-255a-45ca-ba60-aa8f439c542e",
+    "data": {
+      "name": {
+        "en": "Contact Us"
+      },
+      "article": {
+        "en": "<p><strong>City of Portland</strong><br>389 Congress Street<br>Portland, ME 04101<br>Phone: <a href=\"tel:207-874-8300\">207-874-8300</a><br><a href=\"mailto:%20info@portlandmaine.gov\" target=\"null\">Email</a>&nbsp;info@portlandmaine.gov</p>"
+      }
+    },
+    "created": "2022-01-11T21:45:27Z",
+    "lastModified": "2022-05-12T14:21:28Z",
+    "status": "Published",
+    "statusColor": "#4caf50",
+    "contentTypeName": "article",
+    "contentTypeDisplayName": "Article",
+    "version": 5,
+    "contentTypeId": "9ba16241-2e7c-4291-b25e-01a2dbb5afa0,article",
+    "tagsDeleted": [],
+    "tags": [
+      "Footer"
+    ],
+    "categories": [
+      {
+        "id": "458f718d-a361-4e4f-bd39-54d41d38e9c1",
+        "name": "General"
+      }
+    ],
+    "permissionSet": {
+      "id": "a225bb30-f421-494e-b8e3-39453e3c3d97",
+      "name": "CP Admin",
+      "version": 0,
+      "lastModified": "1970-01-01T00:00:00Z",
+      "_links": {}
+    },
+    "notificationDetails": {
+      "subject": "A modification to a Article has been made!",
+      "smsMessage": "A modification to a Article has been made!"
+    },
+    "isEncrypted": false,
+    "emailAddresses": [],
+    "_links": {
+      "self": {
+        "href": "/api/content/me-portland/article/ad9ce5d8-885b-4d01-bb89-29e418eadacc",
+        "method": "GET"
+      },
+      "previous": {
+        "href": "/api/content/me-portland/article/ad9ce5d8-885b-4d01-bb89-29e418eadacc/4",
+        "method": "GET"
+      }
+    }
+  },
+  {
+    "id": "fd0fd860-ae03-41f8-af9e-d2d106cffe5e",
+    "createdBy": "subject:e584c05f-c96e-42f9-b110-00f241f2734f",
+    "lastModifiedBy": "subject:0969ee7b-e2c5-4ad1-b600-0fda4f1557d6",
+    "data": {
+      "link": {
+        "en": {
+          "url": "/172/Elections-Voting",
+          "displayName": "Elections & Voting",
+          "openInNewWindow": false
+        }
+      }
+    },
+    "created": "2022-01-12T17:04:45Z",
+    "lastModified": "2022-06-06T20:31:41Z",
+    "status": "Published",
+    "statusColor": "#4caf50",
+    "contentTypeName": "link",
+    "contentTypeDisplayName": "Link",
+    "version": 5,
+    "contentTypeId": "e27aeae4-28d1-48ce-bfa1-5b0ccbcedd55,link",
+    "tagsDeleted": [],
+    "tags": [
+      "headergroup1"
+    ],
+    "categories": [
+      {
+        "id": "458f718d-a361-4e4f-bd39-54d41d38e9c1",
+        "name": "General"
+      }
+    ],
+    "permissionSet": {
+      "id": "594a7372-4d8e-485a-a25e-ad89cbee07c2",
+      "name": "System Admins",
+      "version": 0,
+      "lastModified": "1970-01-01T00:00:00Z",
+      "_links": {}
+    },
+    "notificationDetails": {
+      "subject": "A modification to a Link has been made!",
+      "smsMessage": "A modification to a Link has been made!"
+    },
+    "isEncrypted": false,
+    "emailAddresses": [],
+    "_links": {
+      "self": {
+        "href": "/api/content/me-portland/link/fd0fd860-ae03-41f8-af9e-d2d106cffe5e",
+        "method": "GET"
+      },
+      "previous": {
+        "href": "/api/content/me-portland/link/fd0fd860-ae03-41f8-af9e-d2d106cffe5e/4",
+        "method": "GET"
+      }
+    }
+  }
+]

@@ -26,4 +26,4 @@ FROM
         "officerId" INTEGER,
         "longitude" FLOAT,
         "latitude" FLOAT
-    );
+    ) ON CONFLICT DO NOTHING;

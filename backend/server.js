@@ -9,9 +9,18 @@ const port = 3001;
 
 app = express();
 
+const ws = require('express-ws')(app);
+
 app.use(cors());
 
 app.use(express.json());
+
+app.ws('/echo', (ws, req) => {
+    ws.on('message', (msg) => {
+        console.log(req.socket.remoteAddress)
+        ws.send(msg);
+    });
+});
 
 
 const addDb = () => {

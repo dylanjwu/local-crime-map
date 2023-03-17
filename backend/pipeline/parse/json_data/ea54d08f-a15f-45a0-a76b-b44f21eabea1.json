@@ -1,0 +1,1032 @@
+{
+  "metadata": {
+    "exactTime": "Printed On: 03/07/23 06:10",
+    "dateString": "Monday, March 6, 2023"
+  },
+  "contents": [
+    {
+      "callNum": "2023011228",
+      "callStart": "03/06/2023 12:01 AM",
+      "callEnd": "03/06/2023 12:15 AM",
+      "type": "Motor Vehicle Stop",
+      "location": "Cumberland Ave/Stone St",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023011229",
+      "callStart": "03/06/2023 12:01 AM",
+      "callEnd": "03/06/2023 12:08 AM",
+      "type": "Motor Vehicle Stop",
+      "location": "Park Ave/Saint John St",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011230",
+      "callStart": "03/06/2023 12:04 AM",
+      "callEnd": "03/06/2023 12:16 AM",
+      "type": "Suspicious Activity",
+      "location": "518 Forest Ave",
+      "officerName": "Duddy, Patrick"
+    },
+    {
+      "callNum": "2023011231",
+      "callStart": "03/06/2023 12:29 AM",
+      "callEnd": "03/06/2023 12:42 AM",
+      "type": "Pedestrian Check",
+      "location": "17 Commercial St",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023011233",
+      "callStart": "03/06/2023 01:05 AM",
+      "callEnd": "03/06/2023 01:31 AM",
+      "type": "Domestic Dispute - Verbal",
+      "location": "72 Wellesley Estates",
+      "officerName": "Duddy, Patrick"
+    },
+    {
+      "callNum": "2023011234",
+      "callStart": "03/06/2023 01:40 AM",
+      "callEnd": "03/06/2023 01:50 AM",
+      "type": "Refusing To Leave",
+      "location": "379 Commercial St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023011235",
+      "callStart": "03/06/2023 01:51 AM",
+      "callEnd": "03/06/2023 03:11 AM",
+      "type": "Motor Vehicle Stop",
+      "location": "500 Marginal Way",
+      "officerName": "Walles, Christopher"
+    },
+    {
+      "callNum": "2023011237",
+      "callStart": "03/06/2023 02:49 AM",
+      "callEnd": "03/06/2023 03:12 AM",
+      "type": "Check Well Being",
+      "location": "5 Portland St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023011238",
+      "callStart": "03/06/2023 02:55 AM",
+      "callEnd": "03/06/2023 03:11 AM",
+      "type": "Disturbance",
+      "location": "203 Oxford St",
+      "officerName": "Proto, Christopher"
+    },
+    {
+      "callNum": "2023011239",
+      "callStart": "03/06/2023 03:29 AM",
+      "callEnd": "03/06/2023 04:07 AM",
+      "type": "Burglary Alarm",
+      "location": "1266 Congress St",
+      "officerName": "Fitzgerald, Terrence"
+    },
+    {
+      "callNum": "2023011240",
+      "callStart": "03/06/2023 04:09 AM",
+      "callEnd": "03/06/2023 04:23 AM",
+      "type": "Refusing To Leave",
+      "location": "155 Riverside St",
+      "officerName": "Wilson, Kevin"
+    },
+    {
+      "callNum": "2023011242",
+      "callStart": "03/06/2023 05:11 AM",
+      "callEnd": "03/06/2023 05:37 AM",
+      "type": "Burglary Alarm",
+      "location": "196 Allen Ave",
+      "officerName": "Wilson, Kevin"
+    },
+    {
+      "callNum": "2023011243",
+      "callStart": "03/06/2023 05:20 AM",
+      "callEnd": "03/06/2023 05:51 AM",
+      "type": "Civil Complaint",
+      "location": "537 Congress St",
+      "officerName": "Walles, Christopher"
+    },
+    {
+      "callNum": "2023011244",
+      "callStart": "03/06/2023 05:22 AM",
+      "callEnd": "03/06/2023 06:20 AM",
+      "type": "Hit and Run Crash",
+      "location": "62 Smith St",
+      "officerName": "Duddy, Patrick"
+    },
+    {
+      "callNum": "2023011246",
+      "callStart": "03/06/2023 05:36 AM",
+      "callEnd": "03/06/2023 05:55 AM",
+      "type": "Suspicious Activity",
+      "location": "14 Orchard St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023011247",
+      "callStart": "03/06/2023 05:47 AM",
+      "callEnd": "03/06/2023 06:08 AM",
+      "type": "Burglary Alarm",
+      "location": "35 Riverside St",
+      "officerName": "Fitzgerald, Terrence"
+    },
+    {
+      "callNum": "2023011248",
+      "callStart": "03/06/2023 05:56 AM",
+      "callEnd": "03/06/2023 05:58 AM",
+      "type": "Motor Vehicle Stop",
+      "location": "393 Commercial St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023011251",
+      "callStart": "03/06/2023 06:49 AM",
+      "callEnd": "03/06/2023 07:26 AM",
+      "type": "911 Hang Up Calls",
+      "location": "137 Spring St",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023011250",
+      "callStart": "03/06/2023 06:57 AM",
+      "callEnd": "03/06/2023 08:01 AM",
+      "type": "PD Crash",
+      "location": "Allen Ave/Woodlawn Ave",
+      "officerName": "Bennis, Michael"
+    },
+    {
+      "callNum": "2023011252",
+      "callStart": "03/06/2023 07:24 AM",
+      "callEnd": "03/06/2023 08:51 AM",
+      "type": "PD Crash",
+      "location": "Brighton Ave/Wayside Rd",
+      "officerName": "Landrigan, Patrick"
+    },
+    {
+      "callNum": "2023011254",
+      "callStart": "03/06/2023 07:25 AM",
+      "callEnd": "03/06/2023 10:25 AM",
+      "type": "Possible OUI",
+      "location": "Spring St/High St",
+      "officerName": "Lowe, Joseph"
+    },
+    {
+      "callNum": "2023011253",
+      "callStart": "03/06/2023 07:27 AM",
+      "callEnd": "03/06/2023 07:36 AM",
+      "type": "Unknown Problem Medical",
+      "location": "28 Monument Sq",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023011256",
+      "callStart": "03/06/2023 07:33 AM",
+      "callEnd": "03/06/2023 09:15 AM",
+      "type": "Hit and Run Crash",
+      "location": "Allen Ave/Forest Ave",
+      "officerName": "Landrigan, Patrick"
+    },
+    {
+      "callNum": "2023011259",
+      "callStart": "03/06/2023 07:58 AM",
+      "callEnd": "03/06/2023 08:05 AM",
+      "type": "Burglary Alarm",
+      "location": "540 Congress St",
+      "officerName": "Cole, Lydia"
+    },
+    {
+      "callNum": "2023011261",
+      "callStart": "03/06/2023 08:11 AM",
+      "callEnd": "03/06/2023 07:07 PM",
+      "type": "Special Detail",
+      "location": "1 Portland Harbor,GREAT DIAMOND",
+      "officerName": "Smith, Laurence Jr"
+    },
+    {
+      "callNum": "2023011262",
+      "callStart": "03/06/2023 08:12 AM",
+      "callEnd": "03/06/2023 09:01 AM",
+      "type": "Check Well Being",
+      "location": "379 Commercial St",
+      "officerName": "Cole, Lydia"
+    },
+    {
+      "callNum": "2023011264",
+      "callStart": "03/06/2023 08:44 AM",
+      "callEnd": "03/06/2023 09:07 AM",
+      "type": "911 Hang Up Calls",
+      "location": "81 E Oxford St,Unit 304",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023011265",
+      "callStart": "03/06/2023 08:52 AM",
+      "callEnd": "03/06/2023 10:06 AM",
+      "type": "PD Crash",
+      "location": "109 Middle St",
+      "officerName": "Cole, Lydia"
+    },
+    {
+      "callNum": "2023011266",
+      "callStart": "03/06/2023 08:56 AM",
+      "callEnd": "03/06/2023 09:31 AM",
+      "type": "PD Crash",
+      "location": "Allen Ave/Washington Ave",
+      "officerName": "Doherty, Robert Jr"
+    },
+    {
+      "callNum": "2023011267",
+      "callStart": "03/06/2023 08:56 AM",
+      "callEnd": "03/06/2023 09:26 AM",
+      "type": "Hit and Run Crash",
+      "location": "94 Washington Ave",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023011269",
+      "callStart": "03/06/2023 09:28 AM",
+      "callEnd": "03/06/2023 10:47 AM",
+      "type": "Disturbance",
+      "location": "39 Deering Ave,Apt 2",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011271",
+      "callStart": "03/06/2023 09:39 AM",
+      "callEnd": "03/06/2023 12:37 PM",
+      "type": "Criminal Trespass",
+      "location": "157 High St",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023011272",
+      "callStart": "03/06/2023 09:39 AM",
+      "callEnd": "03/06/2023 10:27 AM",
+      "type": "PD Crash",
+      "location": "William St/Oakdale St",
+      "officerName": "Rollins, Brian"
+    },
+    {
+      "callNum": "2023011273",
+      "callStart": "03/06/2023 10:05 AM",
+      "callEnd": "03/06/2023 12:27 PM",
+      "type": "PD Crash",
+      "location": "109 Middle St",
+      "officerName": "Cole, Lydia"
+    },
+    {
+      "callNum": "2023011274",
+      "callStart": "03/06/2023 10:06 AM",
+      "callEnd": "03/06/2023 10:27 AM",
+      "type": "Drug Overdose",
+      "location": "66 State St",
+      "officerName": "Cole, Lydia"
+    },
+    {
+      "callNum": "2023011277",
+      "callStart": "03/06/2023 10:20 AM",
+      "callEnd": "03/06/2023 11:21 AM",
+      "type": "PD Crash",
+      "location": "599 Forest Ave",
+      "officerName": "Rollins, Brian"
+    },
+    {
+      "callNum": "2023011278",
+      "callStart": "03/06/2023 10:25 AM",
+      "callEnd": "03/06/2023 12:00 PM",
+      "type": "Threat/Terrorizing",
+      "location": "343 Cumberland Ave",
+      "officerName": "Lowe, Joseph"
+    },
+    {
+      "callNum": "2023011279",
+      "callStart": "03/06/2023 10:32 AM",
+      "callEnd": "03/06/2023 10:42 AM",
+      "type": "911 Hang Up Calls",
+      "location": "92 Carleton St",
+      "officerName": "Lowe, Joseph"
+    },
+    {
+      "callNum": "2023011281",
+      "callStart": "03/06/2023 10:36 AM",
+      "callEnd": "03/06/2023 11:11 AM",
+      "type": "Fraud",
+      "location": "55 Sixth St",
+      "officerName": "Poisson, Alissa"
+    },
+    {
+      "callNum": "2023011283",
+      "callStart": "03/06/2023 10:38 AM",
+      "callEnd": "03/06/2023 12:28 PM",
+      "type": "Weapons Violation/Possession",
+      "location": "55 Portland St",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023011282",
+      "callStart": "03/06/2023 10:41 AM",
+      "callEnd": "03/06/2023 11:25 AM",
+      "type": "Person(s) Bothering",
+      "location": "2 Somerset St",
+      "officerName": "Haley, Kevin"
+    },
+    {
+      "callNum": "2023011286",
+      "callStart": "03/06/2023 10:59 AM",
+      "callEnd": "03/06/2023 12:29 PM",
+      "type": "Assist Citizen",
+      "location": "109 Middle St",
+      "officerName": "Cole, Lydia"
+    },
+    {
+      "callNum": "2023011287",
+      "callStart": "03/06/2023 11:21 AM",
+      "callEnd": "03/06/2023 11:58 AM",
+      "type": "Behavioral Health",
+      "location": "62 India St,Apt 308",
+      "officerName": "Cummings, Amethyst"
+    },
+    {
+      "callNum": "2023011289",
+      "callStart": "03/06/2023 11:28 AM",
+      "callEnd": "03/06/2023 12:19 PM",
+      "type": "PD Crash",
+      "location": "Forest IB On Ramp to 295 NB Hwy/Forest OB On Ramp to 295 NB On",
+      "officerName": "Lowe, Joseph"
+    },
+    {
+      "callNum": "2023011290",
+      "callStart": "03/06/2023 11:34 AM",
+      "callEnd": "03/06/2023 12:58 PM",
+      "type": "Theft",
+      "location": "50 County Way",
+      "officerName": "Eide, Matthew"
+    },
+    {
+      "callNum": "2023011294",
+      "callStart": "03/06/2023 11:53 AM",
+      "callEnd": "03/06/2023 08:18 PM",
+      "type": "Special Detail",
+      "location": "40 Commercial St",
+      "officerName": "Snajder, Deni"
+    },
+    {
+      "callNum": "2023011296",
+      "callStart": "03/06/2023 12:02 PM",
+      "callEnd": "03/06/2023 12:34 PM",
+      "type": "Behavioral Health",
+      "location": "190 Valley St",
+      "officerName": "Cummings, Amethyst"
+    },
+    {
+      "callNum": "2023011297",
+      "callStart": "03/06/2023 12:09 PM",
+      "callEnd": "03/06/2023 12:51 PM",
+      "type": "Drinking In Public",
+      "location": "11 Brown St",
+      "officerName": "Cole, Lydia"
+    },
+    {
+      "callNum": "2023011298",
+      "callStart": "03/06/2023 12:18 PM",
+      "callEnd": "03/06/2023 02:38 PM",
+      "type": "Unknown Injury Crash",
+      "location": "161 Marginal Way",
+      "officerName": "Lowe, Joseph"
+    },
+    {
+      "callNum": "2023011300",
+      "callStart": "03/06/2023 12:25 PM",
+      "callEnd": "03/06/2023 12:42 PM",
+      "type": "Disturbance",
+      "location": "15 Exchange St",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023011302",
+      "callStart": "03/06/2023 01:09 PM",
+      "callEnd": "03/06/2023 01:14 PM",
+      "type": "Person(s) Bothering",
+      "location": "65 Portland St",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011303",
+      "callStart": "03/06/2023 01:14 PM",
+      "callEnd": "03/06/2023 01:33 PM",
+      "type": "Check Well Being",
+      "location": "52 Commercial St",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023011304",
+      "callStart": "03/06/2023 01:20 PM",
+      "callEnd": "03/06/2023 01:21 PM",
+      "type": "Flagged Down",
+      "location": "52 Commercial St",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023011305",
+      "callStart": "03/06/2023 01:21 PM",
+      "callEnd": "03/06/2023 02:08 PM",
+      "type": "Assist EMS",
+      "location": "1699 Forest Ave",
+      "officerName": "Vaught, Kyle"
+    },
+    {
+      "callNum": "2023011306",
+      "callStart": "03/06/2023 01:24 PM",
+      "callEnd": "03/06/2023 02:47 PM",
+      "type": "Theft",
+      "location": "61 Deering St,Apt 2",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023011307",
+      "callStart": "03/06/2023 01:28 PM",
+      "callEnd": "03/06/2023 02:17 PM",
+      "type": "Assist Citizen",
+      "location": "109 Middle St",
+      "officerName": "Cole, Lydia"
+    },
+    {
+      "callNum": "2023011308",
+      "callStart": "03/06/2023 01:32 PM",
+      "callEnd": "03/06/2023 02:58 PM",
+      "type": "Unknown Injury Crash",
+      "location": "1945 Congress St",
+      "officerName": "Eide, Matthew"
+    },
+    {
+      "callNum": "2023011310",
+      "callStart": "03/06/2023 01:39 PM",
+      "callEnd": "03/06/2023 02:37 PM",
+      "type": "PD Crash",
+      "location": "1379 Washington Ave",
+      "officerName": "Duong, Thien"
+    },
+    {
+      "callNum": "2023011315",
+      "callStart": "03/06/2023 01:50 PM",
+      "callEnd": "03/06/2023 03:02 PM",
+      "type": "PD Crash",
+      "location": "195 Fore River Pkwy",
+      "officerName": "Landrigan, Patrick"
+    },
+    {
+      "callNum": "2023011316",
+      "callStart": "03/06/2023 01:51 PM",
+      "callEnd": "03/06/2023 02:28 PM",
+      "type": "Fraud",
+      "location": "44 Walnut St",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023011320",
+      "callStart": "03/06/2023 02:01 PM",
+      "callEnd": "03/06/2023 02:26 PM",
+      "type": "Check Well Being",
+      "location": "457 Cumberland Ave,Apt 40",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011321",
+      "callStart": "03/06/2023 02:08 PM",
+      "callEnd": "03/06/2023 03:09 PM",
+      "type": "Criminal Mischief",
+      "location": "210 High St",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011322",
+      "callStart": "03/06/2023 02:18 PM",
+      "callEnd": "03/06/2023 03:18 PM",
+      "type": "Assist Citizen",
+      "location": "109 Middle St",
+      "officerName": "Cole, Lydia"
+    },
+    {
+      "callNum": "2023011325",
+      "callStart": "03/06/2023 02:38 PM",
+      "callEnd": "03/06/2023 03:43 PM",
+      "type": "PD Crash",
+      "location": "Federal St/Pearl St",
+      "officerName": "Rogers, Garrick"
+    },
+    {
+      "callNum": "2023011326",
+      "callStart": "03/06/2023 02:40 PM",
+      "callEnd": "03/06/2023 03:13 PM",
+      "type": "Hit and Run Crash",
+      "location": "1013 Brighton Ave",
+      "officerName": "Vaught, Kyle"
+    },
+    {
+      "callNum": "2023011331",
+      "callStart": "03/06/2023 03:08 PM",
+      "callEnd": "03/06/2023 03:23 PM",
+      "type": "Domestic Dispute - Verbal",
+      "location": "1091 Congress St",
+      "officerName": "Eide, Matthew"
+    },
+    {
+      "callNum": "2023011332",
+      "callStart": "03/06/2023 03:15 PM",
+      "callEnd": "03/06/2023 03:58 PM",
+      "type": "Assist Citizen",
+      "location": "142 Park Ave,Apt 6",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023011333",
+      "callStart": "03/06/2023 03:20 PM",
+      "callEnd": "03/06/2023 03:25 PM",
+      "type": "911 Hang Up Calls",
+      "location": "91 State St",
+      "officerName": "McLean, John"
+    },
+    {
+      "callNum": "2023011334",
+      "callStart": "03/06/2023 03:29 PM",
+      "callEnd": "03/06/2023 04:32 PM",
+      "type": "Assist Citizen",
+      "location": "157 High St",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011335",
+      "callStart": "03/06/2023 03:39 PM",
+      "callEnd": "03/06/2023 06:55 PM",
+      "type": "911 Hang Up Calls",
+      "location": "1003 Westbrook St",
+      "officerName": "Haley, Kevin"
+    },
+    {
+      "callNum": "2023011336",
+      "callStart": "03/06/2023 03:50 PM",
+      "callEnd": "03/06/2023 04:24 PM",
+      "type": "PD Crash",
+      "location": "325 Woodford St",
+      "officerName": "Landrigan, Patrick"
+    },
+    {
+      "callNum": "2023011337",
+      "callStart": "03/06/2023 04:00 PM",
+      "callEnd": "03/06/2023 04:10 PM",
+      "type": "Assist Fire Dept",
+      "location": "41 Chestnut St",
+      "officerName": "Curlee, Aaron"
+    },
+    {
+      "callNum": "2023011338",
+      "callStart": "03/06/2023 04:09 PM",
+      "callEnd": "03/06/2023 04:26 PM",
+      "type": "Person(s) Bothering",
+      "location": "295 Forest Ave",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011339",
+      "callStart": "03/06/2023 04:14 PM",
+      "callEnd": "03/06/2023 06:58 PM",
+      "type": "Refusing To Leave",
+      "location": "273 Cumberland Ave",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011340",
+      "callStart": "03/06/2023 04:15 PM",
+      "callEnd": "03/06/2023 04:26 PM",
+      "type": "Intoxicated Person",
+      "location": "191 Marginal Way,STE D",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023011342",
+      "callStart": "03/06/2023 04:19 PM",
+      "callEnd": "03/06/2023 04:23 PM",
+      "type": "Assist EMS",
+      "location": "41 Chestnut St",
+      "officerName": "Moore, David"
+    },
+    {
+      "callNum": "2023011343",
+      "callStart": "03/06/2023 04:20 PM",
+      "callEnd": "03/06/2023 04:59 PM",
+      "type": "PD Crash",
+      "location": "1091 Congress St",
+      "officerName": "Turner, Jeremy"
+    },
+    {
+      "callNum": "2023011344",
+      "callStart": "03/06/2023 04:23 PM",
+      "callEnd": "03/07/2023 12:16 AM",
+      "type": "Special Detail",
+      "location": "1 Civic Center Sq",
+      "officerName": "Letarte, Bryan"
+    },
+    {
+      "callNum": "2023011345",
+      "callStart": "03/06/2023 04:25 PM",
+      "callEnd": "03/06/2023 05:19 PM",
+      "type": "911 Hang Up Calls",
+      "location": "58 City Line Dr",
+      "officerName": "Turner, Jeremy"
+    },
+    {
+      "callNum": "2023011355",
+      "callStart": "03/06/2023 04:27 PM",
+      "callEnd": "03/06/2023 06:05 PM",
+      "type": "Disturbance",
+      "location": "33 Alder St",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011346",
+      "callStart": "03/06/2023 04:28 PM",
+      "callEnd": "03/06/2023 07:43 PM",
+      "type": "Burglary Alarm",
+      "location": "1158 Riverside St",
+      "officerName": "Moore, David"
+    },
+    {
+      "callNum": "2023011347",
+      "callStart": "03/06/2023 04:31 PM",
+      "callEnd": "03/06/2023 06:40 PM",
+      "type": "Motor Vehicle Stop",
+      "location": "Cumberland Ave/Elm St",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023011348",
+      "callStart": "03/06/2023 04:37 PM",
+      "callEnd": "03/06/2023 05:17 PM",
+      "type": "911 Hang Up Calls",
+      "location": "113 Vannah Ave",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023011349",
+      "callStart": "03/06/2023 04:43 PM",
+      "callEnd": "03/06/2023 05:14 PM",
+      "type": "Burglary Alarm",
+      "location": "81 E Oxford St",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011350",
+      "callStart": "03/06/2023 05:00 PM",
+      "callEnd": "03/06/2023 07:18 PM",
+      "type": "Special Detail",
+      "location": "389 Congress St",
+      "officerName": "Mohamed, Mohamed"
+    },
+    {
+      "callNum": "2023011356",
+      "callStart": "03/06/2023 05:05 PM",
+      "callEnd": "03/06/2023 06:36 PM",
+      "type": "Hit and Run Crash",
+      "location": "2 Somerset St",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011354",
+      "callStart": "03/06/2023 05:31 PM",
+      "callEnd": "03/06/2023 07:05 PM",
+      "type": "Assist Other Agency",
+      "location": "55 Irving St",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023011358",
+      "callStart": "03/06/2023 06:07 PM",
+      "callEnd": "03/06/2023 09:40 PM",
+      "type": "Special Detail",
+      "location": "123 Washington Ave",
+      "officerName": "Fitzgerald, Terrence"
+    },
+    {
+      "callNum": "2023011359",
+      "callStart": "03/06/2023 06:23 PM",
+      "callEnd": "03/06/2023 06:52 PM",
+      "type": "911 Hang Up Calls",
+      "location": "35 Colonial Rd",
+      "officerName": "Turner, Jeremy"
+    },
+    {
+      "callNum": "2023011360",
+      "callStart": "03/06/2023 06:26 PM",
+      "callEnd": "03/06/2023 06:49 PM",
+      "type": "Burglary Alarm",
+      "location": "35 Union Wharf",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011361",
+      "callStart": "03/06/2023 06:43 PM",
+      "callEnd": "03/06/2023 07:26 PM",
+      "type": "Disturbance",
+      "location": "Brentwood St/Hamblet Ave",
+      "officerName": "Knutson, Kyle"
+    },
+    {
+      "callNum": "2023011362",
+      "callStart": "03/06/2023 06:45 PM",
+      "callEnd": "03/06/2023 06:57 PM",
+      "type": "911 Hang Up Calls",
+      "location": "143 North St",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011363",
+      "callStart": "03/06/2023 06:52 PM",
+      "callEnd": "03/06/2023 07:06 PM",
+      "type": "Parking Complaint",
+      "location": "Gray St/Winter St",
+      "officerName": "Jashinski, Alex"
+    },
+    {
+      "callNum": "2023011364",
+      "callStart": "03/06/2023 07:02 PM",
+      "callEnd": "03/06/2023 07:29 PM",
+      "type": "Motor Vehicle Stop",
+      "location": "358 Eastern Promenade",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011365",
+      "callStart": "03/06/2023 07:04 PM",
+      "callEnd": "03/06/2023 07:25 PM",
+      "type": "Suspicious Activity",
+      "location": "11 E Kidder St",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023011366",
+      "callStart": "03/06/2023 07:08 PM",
+      "callEnd": "03/06/2023 08:08 PM",
+      "type": "Special Attention Check",
+      "location": "14 Orchard St",
+      "officerName": "Jashinski, Alex"
+    },
+    {
+      "callNum": "2023011367",
+      "callStart": "03/06/2023 07:28 PM",
+      "callEnd": "03/06/2023 07:45 PM",
+      "type": "Burglary Alarm",
+      "location": "81 E Oxford St",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011369",
+      "callStart": "03/06/2023 07:34 PM",
+      "callEnd": "03/06/2023 07:54 PM",
+      "type": "Special Attention Check",
+      "location": "186 Delaware Ct",
+      "officerName": "Moore, David"
+    },
+    {
+      "callNum": "2023011371",
+      "callStart": "03/06/2023 07:49 PM",
+      "callEnd": "03/06/2023 08:11 PM",
+      "type": "Burglary Alarm",
+      "location": "96 Homestead Ave",
+      "officerName": "Turner, Jeremy"
+    },
+    {
+      "callNum": "2023011373",
+      "callStart": "03/06/2023 07:54 PM",
+      "callEnd": "03/06/2023 08:05 PM",
+      "type": "Disturbance",
+      "location": "29 Anderson St,Apt 1",
+      "officerName": "Sprague, Christopher"
+    },
+    {
+      "callNum": "2023011374",
+      "callStart": "03/06/2023 07:57 PM",
+      "callEnd": "03/06/2023 08:17 PM",
+      "type": "Shoplifting",
+      "location": "27 Washington Ave",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011377",
+      "callStart": "03/06/2023 08:05 PM",
+      "callEnd": "03/06/2023 08:11 PM",
+      "type": "911 Hang Up Calls",
+      "location": "34 West St",
+      "officerName": "Jashinski, Alex"
+    },
+    {
+      "callNum": "2023011378",
+      "callStart": "03/06/2023 08:30 PM",
+      "callEnd": "03/06/2023 08:33 PM",
+      "type": "Motor Vehicle Stop",
+      "location": "Cumberland Ave/Chestnut St",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023011380",
+      "callStart": "03/06/2023 08:53 PM",
+      "callEnd": "03/06/2023 09:16 PM",
+      "type": "Motor Vehicle Stop",
+      "location": "141 W Commercial St",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023011381",
+      "callStart": "03/06/2023 09:00 PM",
+      "callEnd": "03/06/2023 10:02 PM",
+      "type": "Hit and Run Crash",
+      "location": "512 Warren Ave",
+      "officerName": "Moore, David"
+    },
+    {
+      "callNum": "2023011382",
+      "callStart": "03/06/2023 09:15 PM",
+      "callEnd": "03/06/2023 10:27 PM",
+      "type": "Special Detail",
+      "location": "1 Civic Center Sq",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011383",
+      "callStart": "03/06/2023 09:24 PM",
+      "callEnd": "03/06/2023 09:50 PM",
+      "type": "Vehicle Complaint",
+      "location": "Forest Ave/Woodford St",
+      "officerName": "Lukasiewicz, Mary"
+    },
+    {
+      "callNum": "2023011384",
+      "callStart": "03/06/2023 09:26 PM",
+      "callEnd": "03/06/2023 09:26 PM",
+      "type": "Special Attention Check",
+      "location": "11 E Kidder St",
+      "officerName": "MacLean, Morgan"
+    },
+    {
+      "callNum": "2023011385",
+      "callStart": "03/06/2023 09:27 PM",
+      "callEnd": "03/06/2023 09:34 PM",
+      "type": "Fight",
+      "location": "Spring St/Oak St",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011386",
+      "callStart": "03/06/2023 09:27 PM",
+      "callEnd": "03/06/2023 09:37 PM",
+      "type": "Check Well Being",
+      "location": "630 Congress St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023011387",
+      "callStart": "03/06/2023 09:46 PM",
+      "callEnd": "03/06/2023 09:58 PM",
+      "type": "PD Crash",
+      "location": "45 Spring St",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023011388",
+      "callStart": "03/06/2023 09:50 PM",
+      "callEnd": "03/06/2023 10:05 PM",
+      "type": "911 Hang Up Calls",
+      "location": "28 Preble St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023011389",
+      "callStart": "03/06/2023 09:54 PM",
+      "callEnd": "03/06/2023 10:03 PM",
+      "type": "Burglary Alarm",
+      "location": "23 Deering St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023011390",
+      "callStart": "03/06/2023 10:05 PM",
+      "callEnd": "03/07/2023 01:04 AM",
+      "type": "Robbery",
+      "location": "Mechanic St/Cumberland Ave",
+      "officerName": "Jackson, Jordin"
+    },
+    {
+      "callNum": "2023011392",
+      "callStart": "03/06/2023 10:10 PM",
+      "callEnd": "03/06/2023 10:38 PM",
+      "type": "Refusing To Leave",
+      "location": "56 Commercial St",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011394",
+      "callStart": "03/06/2023 10:11 PM",
+      "callEnd": "03/06/2023 10:34 PM",
+      "type": "Check Well Being",
+      "location": "6 Pine St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023011393",
+      "callStart": "03/06/2023 10:14 PM",
+      "callEnd": "03/06/2023 10:20 PM",
+      "type": "Pedestrian Check",
+      "location": "8 Congress Sq",
+      "officerName": "Walles, Christopher"
+    },
+    {
+      "callNum": "2023011395",
+      "callStart": "03/06/2023 10:16 PM",
+      "callEnd": "03/06/2023 10:34 PM",
+      "type": "Intoxicated Person",
+      "location": "27 Pine St",
+      "officerName": "Theriault, Zachary"
+    },
+    {
+      "callNum": "2023011397",
+      "callStart": "03/06/2023 10:17 PM",
+      "callEnd": "03/06/2023 10:47 PM",
+      "type": "Behavioral Health",
+      "location": "186 Eben Hill Dr",
+      "officerName": "Turner, Jeremy"
+    },
+    {
+      "callNum": "2023011398",
+      "callStart": "03/06/2023 10:19 PM",
+      "callEnd": "03/06/2023 11:00 PM",
+      "type": "Suspicious Activity",
+      "location": "1085 Brighton Ave",
+      "officerName": "Turner, Jeremy"
+    },
+    {
+      "callNum": "2023011399",
+      "callStart": "03/06/2023 10:33 PM",
+      "callEnd": "03/06/2023 10:43 PM",
+      "type": "911 Hang Up Calls",
+      "location": "48 Samuel Rd",
+      "officerName": "Moore, David"
+    },
+    {
+      "callNum": "2023011400",
+      "callStart": "03/06/2023 10:38 PM",
+      "callEnd": "03/06/2023 10:38 PM",
+      "type": "Special Attention Check",
+      "location": "14 Orchard St",
+      "officerName": "Knight, Craig"
+    },
+    {
+      "callNum": "2023011403",
+      "callStart": "03/06/2023 10:47 PM",
+      "callEnd": "03/06/2023 10:55 PM",
+      "type": "Unknown Problem Medical",
+      "location": "151 Park St",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011404",
+      "callStart": "03/06/2023 10:49 PM",
+      "callEnd": "03/06/2023 11:03 PM",
+      "type": "Suspicious Activity",
+      "location": "58 Boyd St",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011405",
+      "callStart": "03/06/2023 10:56 PM",
+      "callEnd": "03/06/2023 11:27 PM",
+      "type": "Suspicious Activity",
+      "location": "136 Holm Ave",
+      "officerName": "Turner, Jeremy"
+    },
+    {
+      "callNum": "2023011407",
+      "callStart": "03/06/2023 11:14 PM",
+      "callEnd": "03/06/2023 11:35 PM",
+      "type": "Motor Vehicle Stop",
+      "location": "Forest Ave/Park Ave",
+      "officerName": "Huff, Curran"
+    },
+    {
+      "callNum": "2023011410",
+      "callStart": "03/06/2023 11:41 PM",
+      "callEnd": "03/07/2023 02:04 AM",
+      "type": "Hit and Run Crash",
+      "location": "431 Brighton Ave",
+      "officerName": "Lukasiewicz, Mary"
+    },
+    {
+      "callNum": "2023011411",
+      "callStart": "03/06/2023 11:46 PM",
+      "callEnd": "03/07/2023 12:17 AM",
+      "type": "Animal Complaint",
+      "location": "616 Forest Ave",
+      "officerName": "Payoczkowski, Matthew"
+    }
+  ]
+}

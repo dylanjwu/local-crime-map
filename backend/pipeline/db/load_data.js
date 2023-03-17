@@ -35,9 +35,11 @@ const insertCallTypes = async(conn, callTypes) => {
 };
 
 const insertCallsData = async(conn, callsData, officerNameToId, typeNameToId) => {
-    const calls = await Promise.all(callsData.map(async({ callNum, callStart, callEnd, type, location, officerName }) => {
+    const calls = [];
+    for (const call of callsData) {
+        const { callNum, callStart, callEnd, type, location, officerName } = call;
         const { longitude, latitude } = await geocode(location);
-        return {
+        calls.push({
             callNum: Number(callNum),
             callStart,
             callEnd,
@@ -46,8 +48,8 @@ const insertCallsData = async(conn, callsData, officerNameToId, typeNameToId) =>
             officerId: officerNameToId[officerName],
             longitude,
             latitude
-        }
-    }));
+        });
+    }
 
     const INSERT_CALLS = new QueryFile('./sql/insert_calls.sql', { minify: true });
     await conn.none(INSERT_CALLS, { calls: JSON.stringify(calls) });
